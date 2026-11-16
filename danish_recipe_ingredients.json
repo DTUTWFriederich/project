@@ -1,0 +1,76 @@
+{
+  "Cookbook:Beer and Rye Bread Porridge (Øllebrød)": [
+    "beer",
+    "fish",
+    "honey",
+    "lemon",
+    "pork",
+    "potato",
+    "salmon",
+    "sugar",
+    "whipped cream"
+  ],
+  "Cookbook:Frikadeller (Danish Meatballs)": [
+    "cabbage",
+    "egg",
+    "garlic",
+    "milk",
+    "onion",
+    "parsley",
+    "pepper",
+    "pork",
+    "potato",
+    "salt",
+    "veal",
+    "wheat germ"
+  ],
+  "Cookbook:Carrot Jam": [
+    "carrot",
+    "lemon",
+    "sugar",
+    "water"
+  ],
+  "Cookbook:Danish Braised Cabbage (Rødkål)": [
+    "butter",
+    "cabbage",
+    "sugar",
+    "vinegar"
+  ],
+  "Cookbook:Æbleskiver (Danish Spherical Pancakes)": [
+    "apple",
+    "applesauce",
+    "baking powder",
+    "baking soda",
+    "butter",
+    "buttermilk",
+    "flour",
+    "raspberry",
+    "salt",
+    "strawberry",
+    "vegetable oil"
+  ],
+  "Cookbook:Rye Bread": [
+    "rye",
+    "salt",
+    "sourdough starter"
+  ],
+  "Cookbook:Rye Bread Layer Cake": [
+    "baking powder",
+    "butter",
+    "cream",
+    "egg",
+    "potato flour",
+    "rye",
+    "sugar",
+    "sunflower seeds"
+  ],
+  "Cookbook:Risengrød": [
+    "butter",
+    "cinnamon",
+    "milk",
+    "rice",
+    "salt",
+    "sugar",
+    "water"
+  ]
+}
