@@ -4,7 +4,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 from matplotlib.colors import to_rgba
 from matplotlib.lines import Line2D
-
+import pprint
 K = 3    # nearest neighbours kept per cuisine
 M = 5    # "pseudo-recipes": a cuisine with M recipes gets half weight
 
@@ -67,4 +67,5 @@ ax.legend(handles=[Line2D([0], [0], marker="o", color="w", markerfacecolor=rcol[
                           markeredgecolor="black", markersize=10, label=r) for r in regions],
           loc="upper left", title="Region (faded = few recipes)")
 ax.axis("off")
+pprint.pprint(list(G.neighbors("Dutch")))
 plt.show()
