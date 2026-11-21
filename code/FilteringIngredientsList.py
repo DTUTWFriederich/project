@@ -3,6 +3,7 @@ import pandas as pd
 import networkx as nx
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+import pprint
 
 df = pd.read_csv("data/all_cuisines_combined.csv", usecols=["region", "cuisine", "recipe", "ingredient"])
 df["ingredient"] = df["ingredient"].str.strip().str.lower()
@@ -25,7 +26,7 @@ n_docs_with_term = np.asarray((X > 0).sum(axis=0)).ravel()
 doc_frac = n_docs_with_term / n_cuisines
 
 # Prune: too common (salt, oil...) or too rare (only one cuisine, can never form an edge)
-MAX_DF = 0.8
+MAX_DF = 0.65
 MIN_DOCS = 2
 keep_mask = (doc_frac <= MAX_DF) & (n_docs_with_term >= MIN_DOCS)
 
@@ -59,7 +60,7 @@ vec2, X2 = tfidf(docs_kept)
 sim = cosine_similarity(X2)
 np.fill_diagonal(sim, 0)
 
-MIN_SIM = 0.2
+MIN_SIM = 0.3
 G = nx.Graph()
 G.add_nodes_from(docs_kept.index)
 idx = docs_kept.index
@@ -68,4 +69,8 @@ for i in range(len(idx)):
         if sim[i, j] >= MIN_SIM:
             G.add_edge(idx[i], idx[j], weight=float(sim[i, j]))
 
-nx.write_gexf(G, "output/FiltredIngredientcuisines.gexf")   # open in Gephi
+
+result = nx.community.louvain_communities(G, weight="weight")
+pprint.pprint(result)
+
+nx.write_gexf(G, "output/FiltredIngredientcuisines65.gexf")   # open in Gephi
