@@ -1,0 +1,1333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-11-21">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Afghan" label="Afghan" />
+      <node id="African (general)" label="African (general)" />
+      <node id="Albanian" label="Albanian" />
+      <node id="Algerian" label="Algerian" />
+      <node id="Alsatian" label="Alsatian" />
+      <node id="American (general)" label="American (general)" />
+      <node id="Angolan" label="Angolan" />
+      <node id="Argentine" label="Argentine" />
+      <node id="Armenian" label="Armenian" />
+      <node id="Asian (general)" label="Asian (general)" />
+      <node id="Australian" label="Australian" />
+      <node id="Austrian" label="Austrian" />
+      <node id="Azerbaijani" label="Azerbaijani" />
+      <node id="Belgian" label="Belgian" />
+      <node id="Bengali" label="Bengali" />
+      <node id="Brazilian" label="Brazilian" />
+      <node id="British" label="British" />
+      <node id="Bulgarian" label="Bulgarian" />
+      <node id="Burmese" label="Burmese" />
+      <node id="Californian" label="Californian" />
+      <node id="Cameroonian" label="Cameroonian" />
+      <node id="Canadian" label="Canadian" />
+      <node id="Caribbean" label="Caribbean" />
+      <node id="Central American" label="Central American" />
+      <node id="Chadian" label="Chadian" />
+      <node id="Chilean" label="Chilean" />
+      <node id="Chinese" label="Chinese" />
+      <node id="Colombian" label="Colombian" />
+      <node id="Cornish" label="Cornish" />
+      <node id="Costa Rican" label="Costa Rican" />
+      <node id="Croatian" label="Croatian" />
+      <node id="Cuban" label="Cuban" />
+      <node id="Cypriot" label="Cypriot" />
+      <node id="Czech" label="Czech" />
+      <node id="Danish" label="Danish" />
+      <node id="Dominican" label="Dominican" />
+      <node id="Dutch" label="Dutch" />
+      <node id="East Asian" label="East Asian" />
+      <node id="Efik" label="Efik" />
+      <node id="Egyptian" label="Egyptian" />
+      <node id="English" label="English" />
+      <node id="Estonian" label="Estonian" />
+      <node id="Ethiopian" label="Ethiopian" />
+      <node id="European (general)" label="European (general)" />
+      <node id="Family heritage (general)" label="Family heritage (general)" />
+      <node id="Filipino" label="Filipino" />
+      <node id="Finnish" label="Finnish" />
+      <node id="French" label="French" />
+      <node id="Gambian" label="Gambian" />
+      <node id="Georgian" label="Georgian" />
+      <node id="German" label="German" />
+      <node id="Ghanaian" label="Ghanaian" />
+      <node id="Gibraltarian" label="Gibraltarian" />
+      <node id="Greek" label="Greek" />
+      <node id="Hausa" label="Hausa" />
+      <node id="Hawaiian" label="Hawaiian" />
+      <node id="Hungarian" label="Hungarian" />
+      <node id="Icelandic" label="Icelandic" />
+      <node id="Igbo" label="Igbo" />
+      <node id="Indian" label="Indian" />
+      <node id="Indonesian" label="Indonesian" />
+      <node id="Iranian" label="Iranian" />
+      <node id="Iraqi" label="Iraqi" />
+      <node id="Irish" label="Irish" />
+      <node id="Israeli" label="Israeli" />
+      <node id="Italian" label="Italian" />
+      <node id="Italian-American" label="Italian-American" />
+      <node id="Jamaican" label="Jamaican" />
+      <node id="Japanese" label="Japanese" />
+      <node id="Jewish (general)" label="Jewish (general)" />
+      <node id="Jewish Yemenite" label="Jewish Yemenite" />
+      <node id="Jordanian" label="Jordanian" />
+      <node id="Kenyan" label="Kenyan" />
+      <node id="Korean" label="Korean" />
+      <node id="Lebanese" label="Lebanese" />
+      <node id="Liberian" label="Liberian" />
+      <node id="Libyan" label="Libyan" />
+      <node id="Lithuanian" label="Lithuanian" />
+      <node id="Louisiana" label="Louisiana" />
+      <node id="Malawian" label="Malawian" />
+      <node id="Malaysian" label="Malaysian" />
+      <node id="Maltese" label="Maltese" />
+      <node id="Manx" label="Manx" />
+      <node id="Mediterranean (general)" label="Mediterranean (general)" />
+      <node id="Mexican" label="Mexican" />
+      <node id="Middle Eastern (general)" label="Middle Eastern (general)" />
+      <node id="Midwestern U.S." label="Midwestern U.S." />
+      <node id="Mongolian" label="Mongolian" />
+      <node id="Moroccan" label="Moroccan" />
+      <node id="National Nigerian" label="National Nigerian" />
+      <node id="Native American" label="Native American" />
+      <node id="Nepali" label="Nepali" />
+      <node id="New Zealand" label="New Zealand" />
+      <node id="Nigerian" label="Nigerian" />
+      <node id="North African" label="North African" />
+      <node id="North American" label="North American" />
+      <node id="Northern Irish" label="Northern Irish" />
+      <node id="Norwegian" label="Norwegian" />
+      <node id="Pakistani" label="Pakistani" />
+      <node id="Palestinian" label="Palestinian" />
+      <node id="Panamanian" label="Panamanian" />
+      <node id="Pashtun" label="Pashtun" />
+      <node id="Peruvian" label="Peruvian" />
+      <node id="Polish" label="Polish" />
+      <node id="Portuguese" label="Portuguese" />
+      <node id="Puerto Rican" label="Puerto Rican" />
+      <node id="Punjabi" label="Punjabi" />
+      <node id="Recipes for kugel" label="Recipes for kugel" />
+      <node id="Romanian" label="Romanian" />
+      <node id="Russian" label="Russian" />
+      <node id="Rwandan" label="Rwandan" />
+      <node id="Sabbath" label="Sabbath" />
+      <node id="Salvadoran" label="Salvadoran" />
+      <node id="Scottish" label="Scottish" />
+      <node id="Senegalese" label="Senegalese" />
+      <node id="Serbian" label="Serbian" />
+      <node id="Sindhi" label="Sindhi" />
+      <node id="Slovenian" label="Slovenian" />
+      <node id="Somali" label="Somali" />
+      <node id="South African" label="South African" />
+      <node id="South American" label="South American" />
+      <node id="South Asian" label="South Asian" />
+      <node id="South Indian" label="South Indian" />
+      <node id="Southeast Asian" label="Southeast Asian" />
+      <node id="Southern U.S." label="Southern U.S." />
+      <node id="Southwestern" label="Southwestern" />
+      <node id="Spanish" label="Spanish" />
+      <node id="Sudanese" label="Sudanese" />
+      <node id="Sundanese" label="Sundanese" />
+      <node id="Surinamese" label="Surinamese" />
+      <node id="Swedish" label="Swedish" />
+      <node id="Swiss" label="Swiss" />
+      <node id="Sylheti" label="Sylheti" />
+      <node id="Taiwanese" label="Taiwanese" />
+      <node id="Tanzanian" label="Tanzanian" />
+      <node id="Tex-Mex" label="Tex-Mex" />
+      <node id="Texas" label="Texas" />
+      <node id="Thai" label="Thai" />
+      <node id="Tibetan" label="Tibetan" />
+      <node id="Tiv" label="Tiv" />
+      <node id="Togolese" label="Togolese" />
+      <node id="Trinidadian and Tobagonian" label="Trinidadian and Tobagonian" />
+      <node id="Turkish" label="Turkish" />
+      <node id="Ugandan" label="Ugandan" />
+      <node id="Ukrainian" label="Ukrainian" />
+      <node id="United States" label="United States" />
+      <node id="Venezuelan" label="Venezuelan" />
+      <node id="Vietnamese" label="Vietnamese" />
+      <node id="Welsh" label="Welsh" />
+      <node id="Yoruba" label="Yoruba" />
+      <node id="Zambian" label="Zambian" />
+      <node id="Zimbabwean" label="Zimbabwean" />
+    </nodes>
+    <edges>
+      <edge source="Afghan" target="Ethiopian" id="0" weight="0.329229369179913" />
+      <edge source="Afghan" target="Indian" id="1" weight="0.3420847182851343" />
+      <edge source="Afghan" target="Middle Eastern (general)" id="2" weight="0.34254487293764524" />
+      <edge source="Afghan" target="North African" id="3" weight="0.3386107874523732" />
+      <edge source="Afghan" target="Pakistani" id="4" weight="0.5705611157373602" />
+      <edge source="Afghan" target="Pashtun" id="5" weight="0.9914520337813656" />
+      <edge source="Afghan" target="Punjabi" id="6" weight="0.6866851894085377" />
+      <edge source="Afghan" target="Serbian" id="7" weight="0.40804542316530557" />
+      <edge source="Afghan" target="Sindhi" id="8" weight="0.33593196645533285" />
+      <edge source="Afghan" target="South Asian" id="9" weight="0.35786359910180404" />
+      <edge source="Afghan" target="Sylheti" id="10" weight="0.31639682153571325" />
+      <edge source="Afghan" target="Tibetan" id="11" weight="0.32224820093201423" />
+      <edge source="African (general)" target="Algerian" id="12" weight="0.3396149888584447" />
+      <edge source="African (general)" target="Asian (general)" id="13" weight="0.37383442802059436" />
+      <edge source="African (general)" target="Brazilian" id="14" weight="0.3560685594441386" />
+      <edge source="African (general)" target="Californian" id="15" weight="0.3672447884379906" />
+      <edge source="African (general)" target="Cameroonian" id="16" weight="0.46374786086466785" />
+      <edge source="African (general)" target="Caribbean" id="17" weight="0.37790855510993754" />
+      <edge source="African (general)" target="Chadian" id="18" weight="0.3450799325230148" />
+      <edge source="African (general)" target="Chinese" id="19" weight="0.32408761184197793" />
+      <edge source="African (general)" target="Colombian" id="20" weight="0.3266485529805586" />
+      <edge source="African (general)" target="Efik" id="21" weight="0.4103955435177276" />
+      <edge source="African (general)" target="Egyptian" id="22" weight="0.4007499780656001" />
+      <edge source="African (general)" target="English" id="23" weight="0.35291862272043045" />
+      <edge source="African (general)" target="Ethiopian" id="24" weight="0.5780727359362228" />
+      <edge source="African (general)" target="French" id="25" weight="0.32813643688109817" />
+      <edge source="African (general)" target="Gambian" id="26" weight="0.5328942746822705" />
+      <edge source="African (general)" target="Hausa" id="27" weight="0.40154649768485356" />
+      <edge source="African (general)" target="Igbo" id="28" weight="0.35857028808140956" />
+      <edge source="African (general)" target="Indian" id="29" weight="0.43391051170516987" />
+      <edge source="African (general)" target="Indonesian" id="30" weight="0.3879326255636225" />
+      <edge source="African (general)" target="Italian" id="31" weight="0.3471825768341193" />
+      <edge source="African (general)" target="Jamaican" id="32" weight="0.3466569848288949" />
+      <edge source="African (general)" target="Kenyan" id="33" weight="0.48426735915873403" />
+      <edge source="African (general)" target="Liberian" id="34" weight="0.6192737967336284" />
+      <edge source="African (general)" target="Libyan" id="35" weight="0.3995237948449383" />
+      <edge source="African (general)" target="Louisiana" id="36" weight="0.3389605482179075" />
+      <edge source="African (general)" target="Malawian" id="37" weight="0.33031514000541384" />
+      <edge source="African (general)" target="Mexican" id="38" weight="0.31187024896856314" />
+      <edge source="African (general)" target="Middle Eastern (general)" id="39" weight="0.33185157268290144" />
+      <edge source="African (general)" target="Moroccan" id="40" weight="0.30646692102597134" />
+      <edge source="African (general)" target="National Nigerian" id="41" weight="0.4388350853763257" />
+      <edge source="African (general)" target="Nigerian" id="42" weight="0.5889011117894284" />
+      <edge source="African (general)" target="Pakistani" id="43" weight="0.36479647792583414" />
+      <edge source="African (general)" target="Peruvian" id="44" weight="0.3269620722529744" />
+      <edge source="African (general)" target="Punjabi" id="45" weight="0.3137405204836586" />
+      <edge source="African (general)" target="Rwandan" id="46" weight="0.5727186008468642" />
+      <edge source="African (general)" target="Senegalese" id="47" weight="0.5440253706431585" />
+      <edge source="African (general)" target="Somali" id="48" weight="0.3482259775075815" />
+      <edge source="African (general)" target="South African" id="49" weight="0.45347389880507755" />
+      <edge source="African (general)" target="South Asian" id="50" weight="0.34846173730615887" />
+      <edge source="African (general)" target="Southern U.S." id="51" weight="0.4044017544010686" />
+      <edge source="African (general)" target="Spanish" id="52" weight="0.3154764823571229" />
+      <edge source="African (general)" target="Sylheti" id="53" weight="0.31569874555986827" />
+      <edge source="African (general)" target="Tanzanian" id="54" weight="0.4195184128745723" />
+      <edge source="African (general)" target="Tex-Mex" id="55" weight="0.3114389021161609" />
+      <edge source="African (general)" target="Texas" id="56" weight="0.31419126470154723" />
+      <edge source="African (general)" target="Thai" id="57" weight="0.30057504204647933" />
+      <edge source="African (general)" target="Togolese" id="58" weight="0.39570066425806616" />
+      <edge source="African (general)" target="Ugandan" id="59" weight="0.5640924456249644" />
+      <edge source="African (general)" target="United States" id="60" weight="0.38422059181835366" />
+      <edge source="African (general)" target="Yoruba" id="61" weight="0.5176886538428687" />
+      <edge source="African (general)" target="Zambian" id="62" weight="0.5378705608484028" />
+      <edge source="African (general)" target="Zimbabwean" id="63" weight="0.30253081511080293" />
+      <edge source="Albanian" target="Bulgarian" id="64" weight="0.5479890088588404" />
+      <edge source="Albanian" target="European (general)" id="65" weight="0.3206830534831842" />
+      <edge source="Albanian" target="French" id="66" weight="0.3097637783024176" />
+      <edge source="Albanian" target="Greek" id="67" weight="0.45034788976190426" />
+      <edge source="Albanian" target="Italian" id="68" weight="0.3562636204356277" />
+      <edge source="Albanian" target="North African" id="69" weight="0.31956951708863446" />
+      <edge source="Albanian" target="Polish" id="70" weight="0.374821519669788" />
+      <edge source="Albanian" target="Russian" id="71" weight="0.4302394801522803" />
+      <edge source="Albanian" target="Turkish" id="72" weight="0.47123047120513495" />
+      <edge source="Albanian" target="Ukrainian" id="73" weight="0.31845724609901166" />
+      <edge source="Algerian" target="Caribbean" id="74" weight="0.31071888171476514" />
+      <edge source="Algerian" target="Chadian" id="75" weight="0.3156544411614534" />
+      <edge source="Algerian" target="Egyptian" id="76" weight="0.44939554417620864" />
+      <edge source="Algerian" target="Ethiopian" id="77" weight="0.3257307570887713" />
+      <edge source="Algerian" target="Gambian" id="78" weight="0.31244243580757647" />
+      <edge source="Algerian" target="Greek" id="79" weight="0.32145268412310174" />
+      <edge source="Algerian" target="Indian" id="80" weight="0.34030137038028363" />
+      <edge source="Algerian" target="Jewish Yemenite" id="81" weight="0.30044425004947173" />
+      <edge source="Algerian" target="Libyan" id="82" weight="0.4945359521951858" />
+      <edge source="Algerian" target="Middle Eastern (general)" id="83" weight="0.4412424943947244" />
+      <edge source="Algerian" target="North African" id="84" weight="0.3317783258224379" />
+      <edge source="Algerian" target="Pakistani" id="85" weight="0.32752128712525785" />
+      <edge source="Algerian" target="Punjabi" id="86" weight="0.3238810007111617" />
+      <edge source="Algerian" target="Senegalese" id="87" weight="0.32072432315467836" />
+      <edge source="Algerian" target="South African" id="88" weight="0.33892247210120063" />
+      <edge source="Algerian" target="South Asian" id="89" weight="0.3142165969193884" />
+      <edge source="Algerian" target="Turkish" id="90" weight="0.3334044301444336" />
+      <edge source="Algerian" target="Ugandan" id="91" weight="0.3012516275078105" />
+      <edge source="Alsatian" target="Australian" id="92" weight="0.33840149795901675" />
+      <edge source="Alsatian" target="Austrian" id="93" weight="0.3612146783015972" />
+      <edge source="Alsatian" target="Cornish" id="94" weight="0.3842475350119755" />
+      <edge source="Alsatian" target="English" id="95" weight="0.3246894110030213" />
+      <edge source="Alsatian" target="French" id="96" weight="0.6071418540864949" />
+      <edge source="Alsatian" target="Hungarian" id="97" weight="0.33151402447099276" />
+      <edge source="Alsatian" target="Irish" id="98" weight="0.37272057449013574" />
+      <edge source="Alsatian" target="Northern Irish" id="99" weight="0.35525596545627586" />
+      <edge source="Alsatian" target="Polish" id="100" weight="0.38354705197402816" />
+      <edge source="Alsatian" target="Welsh" id="101" weight="0.34601121352739095" />
+      <edge source="Angolan" target="Brazilian" id="102" weight="0.3764726860612251" />
+      <edge source="Argentine" target="Austrian" id="103" weight="0.33476332541844667" />
+      <edge source="Argentine" target="Bulgarian" id="104" weight="0.3091501954806741" />
+      <edge source="Argentine" target="Californian" id="105" weight="0.3015082428463039" />
+      <edge source="Argentine" target="Canadian" id="106" weight="0.3574375720211857" />
+      <edge source="Argentine" target="Caribbean" id="107" weight="0.4051758284248415" />
+      <edge source="Argentine" target="Chadian" id="108" weight="0.3014669014296379" />
+      <edge source="Argentine" target="Chilean" id="109" weight="0.6042494187359753" />
+      <edge source="Argentine" target="Colombian" id="110" weight="0.451501474597729" />
+      <edge source="Argentine" target="Cornish" id="111" weight="0.3652799132982719" />
+      <edge source="Argentine" target="Cuban" id="112" weight="0.45848084041547155" />
+      <edge source="Argentine" target="Dutch" id="113" weight="0.3778887279355866" />
+      <edge source="Argentine" target="Egyptian" id="114" weight="0.3217045909715627" />
+      <edge source="Argentine" target="English" id="115" weight="0.3290862255667294" />
+      <edge source="Argentine" target="Family heritage (general)" id="116" weight="0.38897233816864035" />
+      <edge source="Argentine" target="French" id="117" weight="0.34369393110324575" />
+      <edge source="Argentine" target="German" id="118" weight="0.3694615421058966" />
+      <edge source="Argentine" target="Greek" id="119" weight="0.3246227615324117" />
+      <edge source="Argentine" target="Hungarian" id="120" weight="0.3549720203526732" />
+      <edge source="Argentine" target="Irish" id="121" weight="0.31127669074221276" />
+      <edge source="Argentine" target="Italian" id="122" weight="0.3407474635165318" />
+      <edge source="Argentine" target="Jewish (general)" id="123" weight="0.30188627798701967" />
+      <edge source="Argentine" target="Libyan" id="124" weight="0.3765648248086383" />
+      <edge source="Argentine" target="Louisiana" id="125" weight="0.3811285051982204" />
+      <edge source="Argentine" target="Mexican" id="126" weight="0.40704772773504216" />
+      <edge source="Argentine" target="Middle Eastern (general)" id="127" weight="0.31441039309706725" />
+      <edge source="Argentine" target="Moroccan" id="128" weight="0.3239896101190862" />
+      <edge source="Argentine" target="Native American" id="129" weight="0.31641953671839906" />
+      <edge source="Argentine" target="North African" id="130" weight="0.3166611829322963" />
+      <edge source="Argentine" target="Peruvian" id="131" weight="0.3437699013501463" />
+      <edge source="Argentine" target="Portuguese" id="132" weight="0.3610205521837994" />
+      <edge source="Argentine" target="Puerto Rican" id="133" weight="0.3283205251815121" />
+      <edge source="Argentine" target="Romanian" id="134" weight="0.3232588829309413" />
+      <edge source="Argentine" target="Rwandan" id="135" weight="0.3685234895134802" />
+      <edge source="Argentine" target="South American" id="136" weight="0.36875798092732304" />
+      <edge source="Argentine" target="Southern U.S." id="137" weight="0.3691320959245142" />
+      <edge source="Argentine" target="Southwestern" id="138" weight="0.397339371458003" />
+      <edge source="Argentine" target="Spanish" id="139" weight="0.4118522923295402" />
+      <edge source="Argentine" target="Swedish" id="140" weight="0.3524664383833958" />
+      <edge source="Argentine" target="Tex-Mex" id="141" weight="0.4748960757570982" />
+      <edge source="Argentine" target="Trinidadian and Tobagonian" id="142" weight="0.33156900339268547" />
+      <edge source="Argentine" target="United States" id="143" weight="0.3337585786368692" />
+      <edge source="Argentine" target="Venezuelan" id="144" weight="0.36004007663403126" />
+      <edge source="Asian (general)" target="Californian" id="145" weight="0.3956347031444994" />
+      <edge source="Asian (general)" target="Chinese" id="146" weight="0.6119278411292716" />
+      <edge source="Asian (general)" target="East Asian" id="147" weight="0.3435059225091964" />
+      <edge source="Asian (general)" target="Ethiopian" id="148" weight="0.33110055473849415" />
+      <edge source="Asian (general)" target="Filipino" id="149" weight="0.3318558214373354" />
+      <edge source="Asian (general)" target="Indian" id="150" weight="0.3804788797183905" />
+      <edge source="Asian (general)" target="Indonesian" id="151" weight="0.34180279462942137" />
+      <edge source="Asian (general)" target="Japanese" id="152" weight="0.5335820888010898" />
+      <edge source="Asian (general)" target="Kenyan" id="153" weight="0.3001199201434622" />
+      <edge source="Asian (general)" target="Korean" id="154" weight="0.4230871800552292" />
+      <edge source="Asian (general)" target="Midwestern U.S." id="155" weight="0.34588637271937067" />
+      <edge source="Asian (general)" target="Peruvian" id="156" weight="0.3013331187337127" />
+      <edge source="Asian (general)" target="South Asian" id="157" weight="0.320530124653913" />
+      <edge source="Asian (general)" target="Southeast Asian" id="158" weight="0.5273269971475407" />
+      <edge source="Asian (general)" target="Southwestern" id="159" weight="0.303462966023653" />
+      <edge source="Asian (general)" target="Tanzanian" id="160" weight="0.33214929549910976" />
+      <edge source="Asian (general)" target="Thai" id="161" weight="0.540661870174191" />
+      <edge source="Asian (general)" target="United States" id="162" weight="0.3843652575079023" />
+      <edge source="Asian (general)" target="Vietnamese" id="163" weight="0.534962128961249" />
+      <edge source="Asian (general)" target="Zambian" id="164" weight="0.38379377178523244" />
+      <edge source="Australian" target="Austrian" id="165" weight="0.36866421012889616" />
+      <edge source="Australian" target="Canadian" id="166" weight="0.3917175261286278" />
+      <edge source="Australian" target="Cornish" id="167" weight="0.4997245641267408" />
+      <edge source="Australian" target="English" id="168" weight="0.49675151916033616" />
+      <edge source="Australian" target="French" id="169" weight="0.36298105590302165" />
+      <edge source="Australian" target="German" id="170" weight="0.306120522672035" />
+      <edge source="Australian" target="Gibraltarian" id="171" weight="0.3315518341624295" />
+      <edge source="Australian" target="Hungarian" id="172" weight="0.32287068095485805" />
+      <edge source="Australian" target="Irish" id="173" weight="0.5312467113425013" />
+      <edge source="Australian" target="New Zealand" id="174" weight="0.7763886049132485" />
+      <edge source="Australian" target="North American" id="175" weight="0.300612054749359" />
+      <edge source="Australian" target="Northern Irish" id="176" weight="0.4461061514929895" />
+      <edge source="Australian" target="Scottish" id="177" weight="0.4805258905012024" />
+      <edge source="Australian" target="South African" id="178" weight="0.30958429518350716" />
+      <edge source="Australian" target="Southern U.S." id="179" weight="0.3815561855239781" />
+      <edge source="Australian" target="United States" id="180" weight="0.35220697045213045" />
+      <edge source="Australian" target="Welsh" id="181" weight="0.5503507546951887" />
+      <edge source="Austrian" target="British" id="182" weight="0.36745654667397554" />
+      <edge source="Austrian" target="Bulgarian" id="183" weight="0.30339947813064244" />
+      <edge source="Austrian" target="Canadian" id="184" weight="0.3991856994022465" />
+      <edge source="Austrian" target="Cornish" id="185" weight="0.40460048327696874" />
+      <edge source="Austrian" target="Czech" id="186" weight="0.3977623063903082" />
+      <edge source="Austrian" target="Danish" id="187" weight="0.31517047126019404" />
+      <edge source="Austrian" target="Dutch" id="188" weight="0.35181704923226387" />
+      <edge source="Austrian" target="English" id="189" weight="0.5168664185913031" />
+      <edge source="Austrian" target="Family heritage (general)" id="190" weight="0.326010311832192" />
+      <edge source="Austrian" target="Finnish" id="191" weight="0.3279545263541081" />
+      <edge source="Austrian" target="French" id="192" weight="0.40540450856197296" />
+      <edge source="Austrian" target="German" id="193" weight="0.5293778163483597" />
+      <edge source="Austrian" target="Greek" id="194" weight="0.31903924517196103" />
+      <edge source="Austrian" target="Hungarian" id="195" weight="0.5675934366183426" />
+      <edge source="Austrian" target="Irish" id="196" weight="0.3811225347051994" />
+      <edge source="Austrian" target="Italian" id="197" weight="0.3867872895840096" />
+      <edge source="Austrian" target="Jewish (general)" id="198" weight="0.3030341064462292" />
+      <edge source="Austrian" target="Lithuanian" id="199" weight="0.31769345168242163" />
+      <edge source="Austrian" target="Mexican" id="200" weight="0.3196374740988989" />
+      <edge source="Austrian" target="Native American" id="201" weight="0.3128477104722489" />
+      <edge source="Austrian" target="New Zealand" id="202" weight="0.3937897778593249" />
+      <edge source="Austrian" target="North American" id="203" weight="0.34202669913060374" />
+      <edge source="Austrian" target="Polish" id="204" weight="0.36595831251266997" />
+      <edge source="Austrian" target="Russian" id="205" weight="0.3317282319210794" />
+      <edge source="Austrian" target="Scottish" id="206" weight="0.4221554342054351" />
+      <edge source="Austrian" target="Slovenian" id="207" weight="0.46407942732141194" />
+      <edge source="Austrian" target="Southern U.S." id="208" weight="0.37705306415930895" />
+      <edge source="Austrian" target="Spanish" id="209" weight="0.3428957624096275" />
+      <edge source="Austrian" target="Swedish" id="210" weight="0.3433658648135975" />
+      <edge source="Austrian" target="United States" id="211" weight="0.40308485530965327" />
+      <edge source="Austrian" target="Welsh" id="212" weight="0.36092874191974" />
+      <edge source="Belgian" target="Colombian" id="213" weight="0.3022863328437226" />
+      <edge source="Belgian" target="Cornish" id="214" weight="0.32227898026844476" />
+      <edge source="Belgian" target="Dutch" id="215" weight="0.357809419319222" />
+      <edge source="Belgian" target="English" id="216" weight="0.3495707334096534" />
+      <edge source="Belgian" target="French" id="217" weight="0.37277133863797807" />
+      <edge source="Belgian" target="Irish" id="218" weight="0.40005733432550544" />
+      <edge source="Belgian" target="Maltese" id="219" weight="0.3236249238323723" />
+      <edge source="Belgian" target="Romanian" id="220" weight="0.3463419039800998" />
+      <edge source="Belgian" target="Russian" id="221" weight="0.3708186244530682" />
+      <edge source="Belgian" target="Senegalese" id="222" weight="0.32013787646541625" />
+      <edge source="Belgian" target="Ukrainian" id="223" weight="0.33459820976462323" />
+      <edge source="Bengali" target="Egyptian" id="224" weight="0.40692114187886386" />
+      <edge source="Bengali" target="Ethiopian" id="225" weight="0.34067331796271105" />
+      <edge source="Bengali" target="Indian" id="226" weight="0.5175052796746143" />
+      <edge source="Bengali" target="Jewish Yemenite" id="227" weight="0.3072732433645038" />
+      <edge source="Bengali" target="Lebanese" id="228" weight="0.31054358991149744" />
+      <edge source="Bengali" target="Malaysian" id="229" weight="0.31545072151187364" />
+      <edge source="Bengali" target="Middle Eastern (general)" id="230" weight="0.3631975171162039" />
+      <edge source="Bengali" target="Nepali" id="231" weight="0.3404959056100116" />
+      <edge source="Bengali" target="Pakistani" id="232" weight="0.4534947394191438" />
+      <edge source="Bengali" target="Punjabi" id="233" weight="0.37290013049227744" />
+      <edge source="Bengali" target="Sindhi" id="234" weight="0.3523698773403338" />
+      <edge source="Bengali" target="South Asian" id="235" weight="0.5118032679626245" />
+      <edge source="Bengali" target="South Indian" id="236" weight="0.4719274073994072" />
+      <edge source="Bengali" target="Sylheti" id="237" weight="0.488660510306961" />
+      <edge source="Bengali" target="Ugandan" id="238" weight="0.30393005560235903" />
+      <edge source="Brazilian" target="Caribbean" id="239" weight="0.31555785867634406" />
+      <edge source="Brazilian" target="Colombian" id="240" weight="0.315375260610906" />
+      <edge source="Brazilian" target="Cuban" id="241" weight="0.30222753903950705" />
+      <edge source="Brazilian" target="Louisiana" id="242" weight="0.30321383979099287" />
+      <edge source="Brazilian" target="Peruvian" id="243" weight="0.3830304606403402" />
+      <edge source="Brazilian" target="Rwandan" id="244" weight="0.3150115095688388" />
+      <edge source="Brazilian" target="South American" id="245" weight="0.3021908259699229" />
+      <edge source="Brazilian" target="Southern U.S." id="246" weight="0.3275490021078604" />
+      <edge source="Brazilian" target="Tex-Mex" id="247" weight="0.3322609015955526" />
+      <edge source="British" target="Cornish" id="248" weight="0.3920982839495052" />
+      <edge source="British" target="English" id="249" weight="0.39761977782348584" />
+      <edge source="British" target="Family heritage (general)" id="250" weight="0.41619325033944254" />
+      <edge source="British" target="German" id="251" weight="0.31377198145856255" />
+      <edge source="British" target="North American" id="252" weight="0.36718414610447453" />
+      <edge source="British" target="Recipes for kugel" id="253" weight="0.317756244006551" />
+      <edge source="British" target="Slovenian" id="254" weight="0.3086582270566771" />
+      <edge source="Bulgarian" target="Californian" id="255" weight="0.3133657559860299" />
+      <edge source="Bulgarian" target="Canadian" id="256" weight="0.31037153279231233" />
+      <edge source="Bulgarian" target="Colombian" id="257" weight="0.3065477103607153" />
+      <edge source="Bulgarian" target="Cypriot" id="258" weight="0.3378157762401759" />
+      <edge source="Bulgarian" target="Ethiopian" id="259" weight="0.32859164792226114" />
+      <edge source="Bulgarian" target="European (general)" id="260" weight="0.3377288572840656" />
+      <edge source="Bulgarian" target="French" id="261" weight="0.3294463928990471" />
+      <edge source="Bulgarian" target="Greek" id="262" weight="0.4441458462109513" />
+      <edge source="Bulgarian" target="Hungarian" id="263" weight="0.3157098781536615" />
+      <edge source="Bulgarian" target="Israeli" id="264" weight="0.3049609097809575" />
+      <edge source="Bulgarian" target="Italian" id="265" weight="0.34719566570756905" />
+      <edge source="Bulgarian" target="Louisiana" id="266" weight="0.3672025521521373" />
+      <edge source="Bulgarian" target="Middle Eastern (general)" id="267" weight="0.30446028004615927" />
+      <edge source="Bulgarian" target="Polish" id="268" weight="0.3427715910336768" />
+      <edge source="Bulgarian" target="Romanian" id="269" weight="0.3969630946032101" />
+      <edge source="Bulgarian" target="Russian" id="270" weight="0.4205807819049923" />
+      <edge source="Bulgarian" target="Rwandan" id="271" weight="0.3585918594619328" />
+      <edge source="Bulgarian" target="Southern U.S." id="272" weight="0.3052103084096291" />
+      <edge source="Bulgarian" target="Tex-Mex" id="273" weight="0.32463493188693543" />
+      <edge source="Bulgarian" target="Turkish" id="274" weight="0.3740889083917277" />
+      <edge source="Bulgarian" target="Ukrainian" id="275" weight="0.3856562646840485" />
+      <edge source="Bulgarian" target="United States" id="276" weight="0.3362212670422087" />
+      <edge source="Bulgarian" target="Zambian" id="277" weight="0.30365771177678813" />
+      <edge source="Californian" target="Chinese" id="278" weight="0.3534011796019825" />
+      <edge source="Californian" target="Colombian" id="279" weight="0.3994222821481591" />
+      <edge source="Californian" target="Cuban" id="280" weight="0.3633736703100105" />
+      <edge source="Californian" target="French" id="281" weight="0.3070919901110735" />
+      <edge source="Californian" target="Indian" id="282" weight="0.3068682634444685" />
+      <edge source="Californian" target="Italian" id="283" weight="0.31702394889991004" />
+      <edge source="Californian" target="Jamaican" id="284" weight="0.31186675582986956" />
+      <edge source="Californian" target="Japanese" id="285" weight="0.3084014496201464" />
+      <edge source="Californian" target="Liberian" id="286" weight="0.3020115946613724" />
+      <edge source="Californian" target="Louisiana" id="287" weight="0.42369585284304967" />
+      <edge source="Californian" target="Mediterranean (general)" id="288" weight="0.3134179140528059" />
+      <edge source="Californian" target="Mexican" id="289" weight="0.5298331865417" />
+      <edge source="Californian" target="Midwestern U.S." id="290" weight="0.4361637292156049" />
+      <edge source="Californian" target="Native American" id="291" weight="0.3694039057614933" />
+      <edge source="Californian" target="Peruvian" id="292" weight="0.3805370818415419" />
+      <edge source="Californian" target="Rwandan" id="293" weight="0.3376300573275291" />
+      <edge source="Californian" target="Senegalese" id="294" weight="0.3450254807142755" />
+      <edge source="Californian" target="Southern U.S." id="295" weight="0.4553863834010635" />
+      <edge source="Californian" target="Southwestern" id="296" weight="0.579746036504712" />
+      <edge source="Californian" target="Spanish" id="297" weight="0.35066882463645577" />
+      <edge source="Californian" target="Tex-Mex" id="298" weight="0.58403688108784" />
+      <edge source="Californian" target="Texas" id="299" weight="0.4527741383426546" />
+      <edge source="Californian" target="Tibetan" id="300" weight="0.30633593781481094" />
+      <edge source="Californian" target="United States" id="301" weight="0.4572203983711922" />
+      <edge source="Californian" target="Vietnamese" id="302" weight="0.3101243904061992" />
+      <edge source="Californian" target="Zambian" id="303" weight="0.3169499500227255" />
+      <edge source="Cameroonian" target="Efik" id="304" weight="0.3397227959112125" />
+      <edge source="Cameroonian" target="Hausa" id="305" weight="0.3818899781197205" />
+      <edge source="Cameroonian" target="Igbo" id="306" weight="0.5214592069262743" />
+      <edge source="Cameroonian" target="Liberian" id="307" weight="0.4270188067305526" />
+      <edge source="Cameroonian" target="National Nigerian" id="308" weight="0.36766168061729104" />
+      <edge source="Cameroonian" target="Nigerian" id="309" weight="0.5096101669180454" />
+      <edge source="Cameroonian" target="Rwandan" id="310" weight="0.3614743902426011" />
+      <edge source="Cameroonian" target="Tiv" id="311" weight="0.3551008479185699" />
+      <edge source="Cameroonian" target="Togolese" id="312" weight="0.3182655217607155" />
+      <edge source="Cameroonian" target="Ugandan" id="313" weight="0.33107412073642584" />
+      <edge source="Cameroonian" target="Yoruba" id="314" weight="0.549469940123112" />
+      <edge source="Canadian" target="Caribbean" id="315" weight="0.3098406923261935" />
+      <edge source="Canadian" target="Colombian" id="316" weight="0.3210418884490527" />
+      <edge source="Canadian" target="Cornish" id="317" weight="0.3360057072438212" />
+      <edge source="Canadian" target="Dutch" id="318" weight="0.38851539679961355" />
+      <edge source="Canadian" target="Egyptian" id="319" weight="0.37643355685506613" />
+      <edge source="Canadian" target="English" id="320" weight="0.3531845665093684" />
+      <edge source="Canadian" target="German" id="321" weight="0.41038729754164555" />
+      <edge source="Canadian" target="Hungarian" id="322" weight="0.3680563818176738" />
+      <edge source="Canadian" target="Irish" id="323" weight="0.3573903295608768" />
+      <edge source="Canadian" target="Italian" id="324" weight="0.3343933860420815" />
+      <edge source="Canadian" target="Jewish (general)" id="325" weight="0.30293378907378266" />
+      <edge source="Canadian" target="Mexican" id="326" weight="0.36133827150018366" />
+      <edge source="Canadian" target="Midwestern U.S." id="327" weight="0.343931917434475" />
+      <edge source="Canadian" target="Native American" id="328" weight="0.4652220445447962" />
+      <edge source="Canadian" target="New Zealand" id="329" weight="0.35103923229680234" />
+      <edge source="Canadian" target="Russian" id="330" weight="0.4723134852842525" />
+      <edge source="Canadian" target="Scottish" id="331" weight="0.33204310312245977" />
+      <edge source="Canadian" target="South African" id="332" weight="0.3074546493385534" />
+      <edge source="Canadian" target="Southern U.S." id="333" weight="0.5401357850925483" />
+      <edge source="Canadian" target="Southwestern" id="334" weight="0.33492056420508093" />
+      <edge source="Canadian" target="Surinamese" id="335" weight="0.32657200638466205" />
+      <edge source="Canadian" target="Swedish" id="336" weight="0.3148539642876376" />
+      <edge source="Canadian" target="Tex-Mex" id="337" weight="0.36510499505940863" />
+      <edge source="Canadian" target="Texas" id="338" weight="0.4009202607277109" />
+      <edge source="Canadian" target="Ukrainian" id="339" weight="0.3647243678913507" />
+      <edge source="Canadian" target="United States" id="340" weight="0.495146757178083" />
+      <edge source="Canadian" target="Welsh" id="341" weight="0.35911608131911915" />
+      <edge source="Caribbean" target="Colombian" id="342" weight="0.4347530816283028" />
+      <edge source="Caribbean" target="Cuban" id="343" weight="0.34482606053760545" />
+      <edge source="Caribbean" target="Dominican" id="344" weight="0.43918897398581425" />
+      <edge source="Caribbean" target="Egyptian" id="345" weight="0.3164846138010788" />
+      <edge source="Caribbean" target="English" id="346" weight="0.31304335230356684" />
+      <edge source="Caribbean" target="Family heritage (general)" id="347" weight="0.3180822630355661" />
+      <edge source="Caribbean" target="Filipino" id="348" weight="0.34514104289840813" />
+      <edge source="Caribbean" target="Gambian" id="349" weight="0.3284426523463871" />
+      <edge source="Caribbean" target="Hungarian" id="350" weight="0.30814439953148853" />
+      <edge source="Caribbean" target="Indian" id="351" weight="0.33923400633508893" />
+      <edge source="Caribbean" target="Italian" id="352" weight="0.30760794694063176" />
+      <edge source="Caribbean" target="Jamaican" id="353" weight="0.3520407638278405" />
+      <edge source="Caribbean" target="Kenyan" id="354" weight="0.37660436367108924" />
+      <edge source="Caribbean" target="Liberian" id="355" weight="0.3858704429803028" />
+      <edge source="Caribbean" target="Libyan" id="356" weight="0.3985411375823439" />
+      <edge source="Caribbean" target="Louisiana" id="357" weight="0.324024554259128" />
+      <edge source="Caribbean" target="Mexican" id="358" weight="0.39388762753314466" />
+      <edge source="Caribbean" target="Middle Eastern (general)" id="359" weight="0.3260532309710391" />
+      <edge source="Caribbean" target="National Nigerian" id="360" weight="0.33080269628691455" />
+      <edge source="Caribbean" target="North African" id="361" weight="0.32622520715185055" />
+      <edge source="Caribbean" target="Pakistani" id="362" weight="0.3677958900442389" />
+      <edge source="Caribbean" target="Peruvian" id="363" weight="0.39627330026451335" />
+      <edge source="Caribbean" target="Puerto Rican" id="364" weight="0.7428130504803269" />
+      <edge source="Caribbean" target="Punjabi" id="365" weight="0.32607828938840283" />
+      <edge source="Caribbean" target="Rwandan" id="366" weight="0.422298201256014" />
+      <edge source="Caribbean" target="Senegalese" id="367" weight="0.34836152035938145" />
+      <edge source="Caribbean" target="South African" id="368" weight="0.3696599667054536" />
+      <edge source="Caribbean" target="South American" id="369" weight="0.39221612715105986" />
+      <edge source="Caribbean" target="South Asian" id="370" weight="0.31499479195207064" />
+      <edge source="Caribbean" target="Southern U.S." id="371" weight="0.3870872118151572" />
+      <edge source="Caribbean" target="Southwestern" id="372" weight="0.31521128790476893" />
+      <edge source="Caribbean" target="Spanish" id="373" weight="0.3461089134057578" />
+      <edge source="Caribbean" target="Sylheti" id="374" weight="0.3174067663124926" />
+      <edge source="Caribbean" target="Tanzanian" id="375" weight="0.31014342097466113" />
+      <edge source="Caribbean" target="Tex-Mex" id="376" weight="0.3416454448602445" />
+      <edge source="Caribbean" target="Trinidadian and Tobagonian" id="377" weight="0.4674383356834356" />
+      <edge source="Caribbean" target="Ugandan" id="378" weight="0.43980752476118634" />
+      <edge source="Caribbean" target="United States" id="379" weight="0.35546151968469347" />
+      <edge source="Caribbean" target="Venezuelan" id="380" weight="0.45833283740974656" />
+      <edge source="Caribbean" target="Zambian" id="381" weight="0.3225479253591329" />
+      <edge source="Chadian" target="Egyptian" id="382" weight="0.43451020822783964" />
+      <edge source="Chadian" target="Ethiopian" id="383" weight="0.41492458992178843" />
+      <edge source="Chadian" target="Gambian" id="384" weight="0.5295821937702618" />
+      <edge source="Chadian" target="Kenyan" id="385" weight="0.3848571247617279" />
+      <edge source="Chadian" target="Liberian" id="386" weight="0.3267723355137054" />
+      <edge source="Chadian" target="Libyan" id="387" weight="0.4463625913687098" />
+      <edge source="Chadian" target="Moroccan" id="388" weight="0.45389004651355064" />
+      <edge source="Chadian" target="Pakistani" id="389" weight="0.3301799766520509" />
+      <edge source="Chadian" target="Punjabi" id="390" weight="0.35209204517750803" />
+      <edge source="Chadian" target="Rwandan" id="391" weight="0.5634159284390317" />
+      <edge source="Chadian" target="Senegalese" id="392" weight="0.4768262379577607" />
+      <edge source="Chadian" target="Sudanese" id="393" weight="0.3836964939350724" />
+      <edge source="Chadian" target="Sylheti" id="394" weight="0.30607690122780107" />
+      <edge source="Chadian" target="Tanzanian" id="395" weight="0.34860765488161694" />
+      <edge source="Chadian" target="Ugandan" id="396" weight="0.3676078578071579" />
+      <edge source="Chadian" target="Zambian" id="397" weight="0.48476394966123365" />
+      <edge source="Chadian" target="Zimbabwean" id="398" weight="0.35130860461125435" />
+      <edge source="Chilean" target="Colombian" id="399" weight="0.4739931047992537" />
+      <edge source="Chilean" target="Cornish" id="400" weight="0.3679410136161916" />
+      <edge source="Chilean" target="Croatian" id="401" weight="0.30877508597133496" />
+      <edge source="Chilean" target="Dutch" id="402" weight="0.4180413496365189" />
+      <edge source="Chilean" target="Family heritage (general)" id="403" weight="0.46518165232494324" />
+      <edge source="Chilean" target="French" id="404" weight="0.32242377965201996" />
+      <edge source="Chilean" target="German" id="405" weight="0.3399535112194987" />
+      <edge source="Chilean" target="Portuguese" id="406" weight="0.33004930531193927" />
+      <edge source="Chilean" target="South American" id="407" weight="0.3641900348878324" />
+      <edge source="Chilean" target="Swedish" id="408" weight="0.31740442885374015" />
+      <edge source="Chilean" target="Tex-Mex" id="409" weight="0.33598973904293167" />
+      <edge source="Chilean" target="Trinidadian and Tobagonian" id="410" weight="0.37705191387012654" />
+      <edge source="Chilean" target="Venezuelan" id="411" weight="0.34007526780870323" />
+      <edge source="Chinese" target="East Asian" id="412" weight="0.3025516886371184" />
+      <edge source="Chinese" target="Indonesian" id="413" weight="0.3058590186094833" />
+      <edge source="Chinese" target="Japanese" id="414" weight="0.49869161456955835" />
+      <edge source="Chinese" target="Korean" id="415" weight="0.4074073830077939" />
+      <edge source="Chinese" target="Midwestern U.S." id="416" weight="0.34487404894493917" />
+      <edge source="Chinese" target="Southeast Asian" id="417" weight="0.35930117816970963" />
+      <edge source="Chinese" target="Thai" id="418" weight="0.43566695862566024" />
+      <edge source="Chinese" target="United States" id="419" weight="0.32354277105704543" />
+      <edge source="Chinese" target="Vietnamese" id="420" weight="0.41621606167412767" />
+      <edge source="Chinese" target="Zambian" id="421" weight="0.31717401088877484" />
+      <edge source="Colombian" target="Cuban" id="422" weight="0.4771018207961515" />
+      <edge source="Colombian" target="Dominican" id="423" weight="0.3027085237175378" />
+      <edge source="Colombian" target="English" id="424" weight="0.310162553635833" />
+      <edge source="Colombian" target="Ethiopian" id="425" weight="0.30016596846634697" />
+      <edge source="Colombian" target="French" id="426" weight="0.34488412195259344" />
+      <edge source="Colombian" target="Gibraltarian" id="427" weight="0.33646526301817825" />
+      <edge source="Colombian" target="Hungarian" id="428" weight="0.3065848098596984" />
+      <edge source="Colombian" target="Irish" id="429" weight="0.3356064349581983" />
+      <edge source="Colombian" target="Italian" id="430" weight="0.43368396855154645" />
+      <edge source="Colombian" target="Italian-American" id="431" weight="0.32784484017203874" />
+      <edge source="Colombian" target="Liberian" id="432" weight="0.3044105447193352" />
+      <edge source="Colombian" target="Libyan" id="433" weight="0.3133341868495513" />
+      <edge source="Colombian" target="Louisiana" id="434" weight="0.37935334601016935" />
+      <edge source="Colombian" target="Mexican" id="435" weight="0.41056329899366995" />
+      <edge source="Colombian" target="Midwestern U.S." id="436" weight="0.3720214434973229" />
+      <edge source="Colombian" target="Native American" id="437" weight="0.32761647643172837" />
+      <edge source="Colombian" target="Peruvian" id="438" weight="0.4076539027298197" />
+      <edge source="Colombian" target="Puerto Rican" id="439" weight="0.36762264855703675" />
+      <edge source="Colombian" target="Rwandan" id="440" weight="0.36631217968875396" />
+      <edge source="Colombian" target="Senegalese" id="441" weight="0.3008825735152284" />
+      <edge source="Colombian" target="South African" id="442" weight="0.313635234605672" />
+      <edge source="Colombian" target="South American" id="443" weight="0.37866905699766346" />
+      <edge source="Colombian" target="Southern U.S." id="444" weight="0.3504413855824598" />
+      <edge source="Colombian" target="Southwestern" id="445" weight="0.43240230462694385" />
+      <edge source="Colombian" target="Surinamese" id="446" weight="0.37887287956302385" />
+      <edge source="Colombian" target="Swedish" id="447" weight="0.3288404113968324" />
+      <edge source="Colombian" target="Tex-Mex" id="448" weight="0.4432305283056515" />
+      <edge source="Colombian" target="Texas" id="449" weight="0.3038161335738714" />
+      <edge source="Colombian" target="Ukrainian" id="450" weight="0.3041852194771282" />
+      <edge source="Colombian" target="United States" id="451" weight="0.435671913406754" />
+      <edge source="Colombian" target="Venezuelan" id="452" weight="0.5269988363946297" />
+      <edge source="Cornish" target="Croatian" id="453" weight="0.37481020752281025" />
+      <edge source="Cornish" target="Dutch" id="454" weight="0.3301753148852734" />
+      <edge source="Cornish" target="English" id="455" weight="0.591594603053238" />
+      <edge source="Cornish" target="Family heritage (general)" id="456" weight="0.36165808303780156" />
+      <edge source="Cornish" target="French" id="457" weight="0.4008610486818711" />
+      <edge source="Cornish" target="German" id="458" weight="0.3664423977259672" />
+      <edge source="Cornish" target="Gibraltarian" id="459" weight="0.36592761479300695" />
+      <edge source="Cornish" target="Hungarian" id="460" weight="0.354423835605244" />
+      <edge source="Cornish" target="Irish" id="461" weight="0.4925221053046194" />
+      <edge source="Cornish" target="Mongolian" id="462" weight="0.30218589273253593" />
+      <edge source="Cornish" target="Native American" id="463" weight="0.3199250767097836" />
+      <edge source="Cornish" target="New Zealand" id="464" weight="0.49411433642887376" />
+      <edge source="Cornish" target="Northern Irish" id="465" weight="0.5712823829615694" />
+      <edge source="Cornish" target="Polish" id="466" weight="0.3014106167568958" />
+      <edge source="Cornish" target="Scottish" id="467" weight="0.5299520658590117" />
+      <edge source="Cornish" target="South African" id="468" weight="0.3182776601767652" />
+      <edge source="Cornish" target="Southern U.S." id="469" weight="0.31972704075852415" />
+      <edge source="Cornish" target="Trinidadian and Tobagonian" id="470" weight="0.344034628167133" />
+      <edge source="Cornish" target="United States" id="471" weight="0.31001352325072784" />
+      <edge source="Cornish" target="Welsh" id="472" weight="0.5938103469093439" />
+      <edge source="Croatian" target="Romanian" id="473" weight="0.3287526410700437" />
+      <edge source="Cuban" target="Dominican" id="474" weight="0.32172093756952286" />
+      <edge source="Cuban" target="Libyan" id="475" weight="0.30166074528658243" />
+      <edge source="Cuban" target="Louisiana" id="476" weight="0.40916227941040173" />
+      <edge source="Cuban" target="Mediterranean (general)" id="477" weight="0.3649663093112091" />
+      <edge source="Cuban" target="Moroccan" id="478" weight="0.30447578830643707" />
+      <edge source="Cuban" target="Panamanian" id="479" weight="0.43040910118159836" />
+      <edge source="Cuban" target="Peruvian" id="480" weight="0.38288595365590433" />
+      <edge source="Cuban" target="Puerto Rican" id="481" weight="0.43787343650747157" />
+      <edge source="Cuban" target="Romanian" id="482" weight="0.38085793863601713" />
+      <edge source="Cuban" target="South American" id="483" weight="0.5577258501663248" />
+      <edge source="Cuban" target="Southern U.S." id="484" weight="0.3119938328552101" />
+      <edge source="Cuban" target="Southwestern" id="485" weight="0.3180837155290097" />
+      <edge source="Cuban" target="Spanish" id="486" weight="0.36964321600896144" />
+      <edge source="Cuban" target="Tex-Mex" id="487" weight="0.3489665298164034" />
+      <edge source="Cuban" target="Venezuelan" id="488" weight="0.4075041333739371" />
+      <edge source="Cypriot" target="Peruvian" id="489" weight="0.3197240220742892" />
+      <edge source="Czech" target="Danish" id="490" weight="0.33915543643525087" />
+      <edge source="Danish" target="English" id="491" weight="0.3064835152831651" />
+      <edge source="Danish" target="Irish" id="492" weight="0.31642454380905055" />
+      <edge source="Danish" target="Lithuanian" id="493" weight="0.3413999409212516" />
+      <edge source="Danish" target="Norwegian" id="494" weight="0.3285379034544983" />
+      <edge source="Dominican" target="Puerto Rican" id="495" weight="0.4726165079010513" />
+      <edge source="Dutch" target="English" id="496" weight="0.3590972554018802" />
+      <edge source="Dutch" target="Family heritage (general)" id="497" weight="0.3478690141907629" />
+      <edge source="Dutch" target="Finnish" id="498" weight="0.3060109812159825" />
+      <edge source="Dutch" target="French" id="499" weight="0.30394266532422004" />
+      <edge source="Dutch" target="German" id="500" weight="0.4104980745543438" />
+      <edge source="Dutch" target="Hungarian" id="501" weight="0.324482567396781" />
+      <edge source="Dutch" target="Irish" id="502" weight="0.30133575027187065" />
+      <edge source="Dutch" target="New Zealand" id="503" weight="0.31593674992438414" />
+      <edge source="Dutch" target="Polish" id="504" weight="0.42536523200680376" />
+      <edge source="Dutch" target="Slovenian" id="505" weight="0.3058738374976338" />
+      <edge source="Dutch" target="Southern U.S." id="506" weight="0.33074811886863503" />
+      <edge source="Dutch" target="Swedish" id="507" weight="0.3065427988968385" />
+      <edge source="Dutch" target="Welsh" id="508" weight="0.3180684450302858" />
+      <edge source="East Asian" target="Japanese" id="509" weight="0.6224832691251402" />
+      <edge source="Efik" target="Nigerian" id="510" weight="0.5418525308597201" />
+      <edge source="Efik" target="Yoruba" id="511" weight="0.4305402735303858" />
+      <edge source="Egyptian" target="Ethiopian" id="512" weight="0.4014682769784773" />
+      <edge source="Egyptian" target="Gambian" id="513" weight="0.3463075946454489" />
+      <edge source="Egyptian" target="Greek" id="514" weight="0.37024706291147536" />
+      <edge source="Egyptian" target="Indian" id="515" weight="0.42220603125294154" />
+      <edge source="Egyptian" target="Iranian" id="516" weight="0.3991907751965312" />
+      <edge source="Egyptian" target="Israeli" id="517" weight="0.30331410925214475" />
+      <edge source="Egyptian" target="Italian" id="518" weight="0.3011380242123094" />
+      <edge source="Egyptian" target="Kenyan" id="519" weight="0.31050806952737986" />
+      <edge source="Egyptian" target="Lebanese" id="520" weight="0.3619943570905081" />
+      <edge source="Egyptian" target="Libyan" id="521" weight="0.5292008360310942" />
+      <edge source="Egyptian" target="Middle Eastern (general)" id="522" weight="0.5195531069022589" />
+      <edge source="Egyptian" target="Moroccan" id="523" weight="0.3298889527774442" />
+      <edge source="Egyptian" target="Pakistani" id="524" weight="0.4116717239696068" />
+      <edge source="Egyptian" target="Punjabi" id="525" weight="0.3405138314144028" />
+      <edge source="Egyptian" target="Rwandan" id="526" weight="0.393157110365538" />
+      <edge source="Egyptian" target="Senegalese" id="527" weight="0.38842042759425277" />
+      <edge source="Egyptian" target="South Asian" id="528" weight="0.3999880315970003" />
+      <edge source="Egyptian" target="South Indian" id="529" weight="0.3209882916689156" />
+      <edge source="Egyptian" target="Southern U.S." id="530" weight="0.3023620183013097" />
+      <edge source="Egyptian" target="Sylheti" id="531" weight="0.34957378186163374" />
+      <edge source="Egyptian" target="Turkish" id="532" weight="0.5092690001791481" />
+      <edge source="Egyptian" target="Ugandan" id="533" weight="0.375064885366548" />
+      <edge source="Egyptian" target="United States" id="534" weight="0.3083482266423382" />
+      <edge source="Egyptian" target="Zambian" id="535" weight="0.41291917707768955" />
+      <edge source="English" target="Family heritage (general)" id="536" weight="0.3780854424660833" />
+      <edge source="English" target="French" id="537" weight="0.46251143237339576" />
+      <edge source="English" target="German" id="538" weight="0.45201653856509455" />
+      <edge source="English" target="Gibraltarian" id="539" weight="0.30382234834561406" />
+      <edge source="English" target="Hungarian" id="540" weight="0.39512220547732485" />
+      <edge source="English" target="Indian" id="541" weight="0.3384175837905876" />
+      <edge source="English" target="Irish" id="542" weight="0.5238235471630024" />
+      <edge source="English" target="Italian" id="543" weight="0.3816646399702282" />
+      <edge source="English" target="Jamaican" id="544" weight="0.3087983134385068" />
+      <edge source="English" target="Jewish (general)" id="545" weight="0.3238704196941428" />
+      <edge source="English" target="Mexican" id="546" weight="0.32130857909301813" />
+      <edge source="English" target="Midwestern U.S." id="547" weight="0.3412192202794383" />
+      <edge source="English" target="New Zealand" id="548" weight="0.484398710185076" />
+      <edge source="English" target="North American" id="549" weight="0.3637630782298283" />
+      <edge source="English" target="Northern Irish" id="550" weight="0.3816669033792273" />
+      <edge source="English" target="Pakistani" id="551" weight="0.3385306913329371" />
+      <edge source="English" target="Polish" id="552" weight="0.3294318223689352" />
+      <edge source="English" target="Portuguese" id="553" weight="0.30118110069718246" />
+      <edge source="English" target="Scottish" id="554" weight="0.5291047017313335" />
+      <edge source="English" target="Senegalese" id="555" weight="0.31482282371796516" />
+      <edge source="English" target="South African" id="556" weight="0.3645918537640438" />
+      <edge source="English" target="Southern U.S." id="557" weight="0.4593435899096185" />
+      <edge source="English" target="Southwestern" id="558" weight="0.3196395871808737" />
+      <edge source="English" target="Spanish" id="559" weight="0.30864602612507513" />
+      <edge source="English" target="Surinamese" id="560" weight="0.34225678703866436" />
+      <edge source="English" target="Swedish" id="561" weight="0.34293084547571917" />
+      <edge source="English" target="Texas" id="562" weight="0.32764631868758193" />
+      <edge source="English" target="Trinidadian and Tobagonian" id="563" weight="0.34313527432018925" />
+      <edge source="English" target="Ukrainian" id="564" weight="0.3036147548387148" />
+      <edge source="English" target="United States" id="565" weight="0.43057632821696545" />
+      <edge source="English" target="Welsh" id="566" weight="0.46386266660468245" />
+      <edge source="Estonian" target="Tibetan" id="567" weight="0.30904257889532183" />
+      <edge source="Ethiopian" target="European (general)" id="568" weight="0.3088611139444888" />
+      <edge source="Ethiopian" target="Gambian" id="569" weight="0.45495931797547956" />
+      <edge source="Ethiopian" target="Indian" id="570" weight="0.44605749924645766" />
+      <edge source="Ethiopian" target="Israeli" id="571" weight="0.30992910020752895" />
+      <edge source="Ethiopian" target="Italian" id="572" weight="0.3103569041413852" />
+      <edge source="Ethiopian" target="Jewish (general)" id="573" weight="0.3317065153857428" />
+      <edge source="Ethiopian" target="Kenyan" id="574" weight="0.4338642576848607" />
+      <edge source="Ethiopian" target="Lebanese" id="575" weight="0.3494847730678431" />
+      <edge source="Ethiopian" target="Liberian" id="576" weight="0.3359643241318282" />
+      <edge source="Ethiopian" target="Libyan" id="577" weight="0.5205785297666962" />
+      <edge source="Ethiopian" target="Middle Eastern (general)" id="578" weight="0.39319761447947665" />
+      <edge source="Ethiopian" target="Moroccan" id="579" weight="0.38507345970027707" />
+      <edge source="Ethiopian" target="Pakistani" id="580" weight="0.45855771831553865" />
+      <edge source="Ethiopian" target="Pashtun" id="581" weight="0.3436736930561379" />
+      <edge source="Ethiopian" target="Punjabi" id="582" weight="0.43960760420792827" />
+      <edge source="Ethiopian" target="Russian" id="583" weight="0.3039246927387452" />
+      <edge source="Ethiopian" target="Rwandan" id="584" weight="0.5286075034845766" />
+      <edge source="Ethiopian" target="Senegalese" id="585" weight="0.4068704902147417" />
+      <edge source="Ethiopian" target="Somali" id="586" weight="0.4075669052588849" />
+      <edge source="Ethiopian" target="South African" id="587" weight="0.30866140815889204" />
+      <edge source="Ethiopian" target="South Asian" id="588" weight="0.38417925617597654" />
+      <edge source="Ethiopian" target="Southwestern" id="589" weight="0.3042083077547711" />
+      <edge source="Ethiopian" target="Sylheti" id="590" weight="0.3499230764837885" />
+      <edge source="Ethiopian" target="Tanzanian" id="591" weight="0.4325935516439213" />
+      <edge source="Ethiopian" target="Tex-Mex" id="592" weight="0.31849649527243523" />
+      <edge source="Ethiopian" target="Ugandan" id="593" weight="0.473889073311475" />
+      <edge source="Ethiopian" target="United States" id="594" weight="0.30597091962907463" />
+      <edge source="Ethiopian" target="Zambian" id="595" weight="0.47821722495636904" />
+      <edge source="European (general)" target="Gambian" id="596" weight="0.30891164685036315" />
+      <edge source="European (general)" target="Lebanese" id="597" weight="0.30816166182626664" />
+      <edge source="European (general)" target="Libyan" id="598" weight="0.36476570743207903" />
+      <edge source="European (general)" target="North African" id="599" weight="0.39960160810431855" />
+      <edge source="European (general)" target="Pakistani" id="600" weight="0.30012102583268047" />
+      <edge source="European (general)" target="Russian" id="601" weight="0.31214655502154004" />
+      <edge source="European (general)" target="Southwestern" id="602" weight="0.32529151383330923" />
+      <edge source="European (general)" target="Tex-Mex" id="603" weight="0.3037975274701919" />
+      <edge source="European (general)" target="Turkish" id="604" weight="0.33523104302413614" />
+      <edge source="Family heritage (general)" target="German" id="605" weight="0.42431586217871164" />
+      <edge source="Family heritage (general)" target="Greek" id="606" weight="0.30386849339365385" />
+      <edge source="Family heritage (general)" target="North American" id="607" weight="0.3945145389971134" />
+      <edge source="Family heritage (general)" target="Portuguese" id="608" weight="0.3121444476562285" />
+      <edge source="Family heritage (general)" target="Recipes for kugel" id="609" weight="0.31365997756503894" />
+      <edge source="Family heritage (general)" target="Slovenian" id="610" weight="0.35213112441215744" />
+      <edge source="Family heritage (general)" target="South African" id="611" weight="0.35919987771584283" />
+      <edge source="Family heritage (general)" target="South American" id="612" weight="0.34189849105837333" />
+      <edge source="Family heritage (general)" target="Southern U.S." id="613" weight="0.3974153431019138" />
+      <edge source="Family heritage (general)" target="Texas" id="614" weight="0.3029699202392085" />
+      <edge source="Family heritage (general)" target="Trinidadian and Tobagonian" id="615" weight="0.3396775849378396" />
+      <edge source="Family heritage (general)" target="United States" id="616" weight="0.33900302154771367" />
+      <edge source="Filipino" target="Indonesian" id="617" weight="0.33253034909401286" />
+      <edge source="Filipino" target="Southeast Asian" id="618" weight="0.3081060425428184" />
+      <edge source="Filipino" target="Thai" id="619" weight="0.39333433525200645" />
+      <edge source="Finnish" target="Lithuanian" id="620" weight="0.3179573311943131" />
+      <edge source="Finnish" target="North African" id="621" weight="0.3102387338980383" />
+      <edge source="Finnish" target="Russian" id="622" weight="0.3350738511466373" />
+      <edge source="Finnish" target="South American" id="623" weight="0.3604079608209775" />
+      <edge source="Finnish" target="Swedish" id="624" weight="0.3534628314316687" />
+      <edge source="Finnish" target="Welsh" id="625" weight="0.399216432253717" />
+      <edge source="French" target="German" id="626" weight="0.3382598590805618" />
+      <edge source="French" target="Gibraltarian" id="627" weight="0.4096425317335348" />
+      <edge source="French" target="Greek" id="628" weight="0.3112960689323526" />
+      <edge source="French" target="Hungarian" id="629" weight="0.3427252554095746" />
+      <edge source="French" target="Irish" id="630" weight="0.4404900785971636" />
+      <edge source="French" target="Italian" id="631" weight="0.5366532343242139" />
+      <edge source="French" target="Louisiana" id="632" weight="0.3727510098935749" />
+      <edge source="French" target="Mediterranean (general)" id="633" weight="0.3682316891609023" />
+      <edge source="French" target="Midwestern U.S." id="634" weight="0.3233743182644265" />
+      <edge source="French" target="Native American" id="635" weight="0.3386602857736036" />
+      <edge source="French" target="New Zealand" id="636" weight="0.33103385828667725" />
+      <edge source="French" target="Northern Irish" id="637" weight="0.30373358901854475" />
+      <edge source="French" target="Polish" id="638" weight="0.3973701248381299" />
+      <edge source="French" target="Russian" id="639" weight="0.3217914211389047" />
+      <edge source="French" target="Scottish" id="640" weight="0.31184588226100207" />
+      <edge source="French" target="South African" id="641" weight="0.30466826217063664" />
+      <edge source="French" target="Southern U.S." id="642" weight="0.4030221508392992" />
+      <edge source="French" target="Spanish" id="643" weight="0.4250005924814764" />
+      <edge source="French" target="Swedish" id="644" weight="0.3684788297781307" />
+      <edge source="French" target="Ukrainian" id="645" weight="0.309689873841984" />
+      <edge source="French" target="United States" id="646" weight="0.4293005952365594" />
+      <edge source="French" target="Venezuelan" id="647" weight="0.3533978217658253" />
+      <edge source="Gambian" target="Ghanaian" id="648" weight="0.3294705072123044" />
+      <edge source="Gambian" target="Hausa" id="649" weight="0.30422202461164416" />
+      <edge source="Gambian" target="Kenyan" id="650" weight="0.35814342681804023" />
+      <edge source="Gambian" target="Liberian" id="651" weight="0.5902178810203409" />
+      <edge source="Gambian" target="Libyan" id="652" weight="0.486142208725882" />
+      <edge source="Gambian" target="Louisiana" id="653" weight="0.35499160162200105" />
+      <edge source="Gambian" target="Moroccan" id="654" weight="0.4062465114322714" />
+      <edge source="Gambian" target="National Nigerian" id="655" weight="0.321828739991737" />
+      <edge source="Gambian" target="Nigerian" id="656" weight="0.303514578490445" />
+      <edge source="Gambian" target="Peruvian" id="657" weight="0.31779195082017425" />
+      <edge source="Gambian" target="Rwandan" id="658" weight="0.625906966662347" />
+      <edge source="Gambian" target="Senegalese" id="659" weight="0.5021174192474178" />
+      <edge source="Gambian" target="Southern U.S." id="660" weight="0.3197918043867847" />
+      <edge source="Gambian" target="Tanzanian" id="661" weight="0.30147196943540555" />
+      <edge source="Gambian" target="Togolese" id="662" weight="0.4038250247269018" />
+      <edge source="Gambian" target="Ugandan" id="663" weight="0.503068921593364" />
+      <edge source="Gambian" target="Zambian" id="664" weight="0.5698424229567837" />
+      <edge source="Gambian" target="Zimbabwean" id="665" weight="0.5086564858790232" />
+      <edge source="German" target="Hungarian" id="666" weight="0.4202739917614905" />
+      <edge source="German" target="Irish" id="667" weight="0.37094794964301303" />
+      <edge source="German" target="Italian" id="668" weight="0.3246069629072906" />
+      <edge source="German" target="Mexican" id="669" weight="0.32411011713550697" />
+      <edge source="German" target="North American" id="670" weight="0.36431006636055174" />
+      <edge source="German" target="Polish" id="671" weight="0.3141886943541182" />
+      <edge source="German" target="Russian" id="672" weight="0.3592108872182963" />
+      <edge source="German" target="Scottish" id="673" weight="0.35425803446097354" />
+      <edge source="German" target="Slovenian" id="674" weight="0.32347311844253757" />
+      <edge source="German" target="South African" id="675" weight="0.3010008831826622" />
+      <edge source="German" target="Southern U.S." id="676" weight="0.40583626808938233" />
+      <edge source="German" target="Swedish" id="677" weight="0.3387622618769836" />
+      <edge source="German" target="Trinidadian and Tobagonian" id="678" weight="0.3229133369269204" />
+      <edge source="German" target="United States" id="679" weight="0.38869106366639133" />
+      <edge source="German" target="Welsh" id="680" weight="0.3317875981345995" />
+      <edge source="Ghanaian" target="Liberian" id="681" weight="0.322493055561302" />
+      <edge source="Ghanaian" target="Malawian" id="682" weight="0.34514150097744817" />
+      <edge source="Gibraltarian" target="Irish" id="683" weight="0.4608386059908796" />
+      <edge source="Gibraltarian" target="Italian" id="684" weight="0.39018495169970635" />
+      <edge source="Gibraltarian" target="Italian-American" id="685" weight="0.4467674539011123" />
+      <edge source="Gibraltarian" target="New Zealand" id="686" weight="0.35482779867699377" />
+      <edge source="Gibraltarian" target="Northern Irish" id="687" weight="0.5581929151261905" />
+      <edge source="Gibraltarian" target="Scottish" id="688" weight="0.37440371137932227" />
+      <edge source="Gibraltarian" target="United States" id="689" weight="0.3147786835809784" />
+      <edge source="Gibraltarian" target="Welsh" id="690" weight="0.3950871842930454" />
+      <edge source="Greek" target="Israeli" id="691" weight="0.3049746820674158" />
+      <edge source="Greek" target="Italian" id="692" weight="0.4276198619327847" />
+      <edge source="Greek" target="Italian-American" id="693" weight="0.3863164634323766" />
+      <edge source="Greek" target="Mediterranean (general)" id="694" weight="0.3535690705063138" />
+      <edge source="Greek" target="Middle Eastern (general)" id="695" weight="0.44137946462884614" />
+      <edge source="Greek" target="Native American" id="696" weight="0.3165580206711747" />
+      <edge source="Greek" target="Russian" id="697" weight="0.3265230099247735" />
+      <edge source="Greek" target="Turkish" id="698" weight="0.5004124913156224" />
+      <edge source="Greek" target="United States" id="699" weight="0.3313306966860425" />
+      <edge source="Hausa" target="Igbo" id="700" weight="0.4814568676428457" />
+      <edge source="Hausa" target="Liberian" id="701" weight="0.37119363653752296" />
+      <edge source="Hausa" target="National Nigerian" id="702" weight="0.42841468036862984" />
+      <edge source="Hausa" target="Nigerian" id="703" weight="0.57697422513533" />
+      <edge source="Hausa" target="Tiv" id="704" weight="0.41466292649349423" />
+      <edge source="Hausa" target="Togolese" id="705" weight="0.3048349732187157" />
+      <edge source="Hausa" target="Yoruba" id="706" weight="0.53475332390113" />
+      <edge source="Hungarian" target="Irish" id="707" weight="0.3605805888451567" />
+      <edge source="Hungarian" target="Italian" id="708" weight="0.34664044370310354" />
+      <edge source="Hungarian" target="Jewish (general)" id="709" weight="0.3354832957356838" />
+      <edge source="Hungarian" target="Lithuanian" id="710" weight="0.31787617545593183" />
+      <edge source="Hungarian" target="Mexican" id="711" weight="0.33330620746022177" />
+      <edge source="Hungarian" target="New Zealand" id="712" weight="0.3121504449701623" />
+      <edge source="Hungarian" target="Polish" id="713" weight="0.3854864415626815" />
+      <edge source="Hungarian" target="Russian" id="714" weight="0.3716670562735954" />
+      <edge source="Hungarian" target="Scottish" id="715" weight="0.31551553464472354" />
+      <edge source="Hungarian" target="Southern U.S." id="716" weight="0.33737056506841734" />
+      <edge source="Hungarian" target="Southwestern" id="717" weight="0.32182295297530955" />
+      <edge source="Hungarian" target="Tex-Mex" id="718" weight="0.32724135664783144" />
+      <edge source="Hungarian" target="Ukrainian" id="719" weight="0.34835928399509575" />
+      <edge source="Hungarian" target="United States" id="720" weight="0.3369426236151888" />
+      <edge source="Igbo" target="National Nigerian" id="721" weight="0.40004714228633387" />
+      <edge source="Igbo" target="Nigerian" id="722" weight="0.6255591804886768" />
+      <edge source="Igbo" target="Tiv" id="723" weight="0.3962897307601378" />
+      <edge source="Igbo" target="Yoruba" id="724" weight="0.42128997953694103" />
+      <edge source="Indian" target="Indonesian" id="725" weight="0.4024237102816093" />
+      <edge source="Indian" target="Iranian" id="726" weight="0.3363869001463066" />
+      <edge source="Indian" target="Israeli" id="727" weight="0.30129613227877045" />
+      <edge source="Indian" target="Jamaican" id="728" weight="0.3090878870326107" />
+      <edge source="Indian" target="Jewish Yemenite" id="729" weight="0.3274476905506906" />
+      <edge source="Indian" target="Kenyan" id="730" weight="0.34070583799987075" />
+      <edge source="Indian" target="Libyan" id="731" weight="0.3775003590371339" />
+      <edge source="Indian" target="Malaysian" id="732" weight="0.3916512994911965" />
+      <edge source="Indian" target="Mexican" id="733" weight="0.3084548968345209" />
+      <edge source="Indian" target="Middle Eastern (general)" id="734" weight="0.4428780656344607" />
+      <edge source="Indian" target="Nepali" id="735" weight="0.32522447455028025" />
+      <edge source="Indian" target="Pakistani" id="736" weight="0.6613913193520957" />
+      <edge source="Indian" target="Pashtun" id="737" weight="0.3465746215199323" />
+      <edge source="Indian" target="Punjabi" id="738" weight="0.5412199083676725" />
+      <edge source="Indian" target="Rwandan" id="739" weight="0.3126776344852778" />
+      <edge source="Indian" target="Senegalese" id="740" weight="0.34616484750616755" />
+      <edge source="Indian" target="Sindhi" id="741" weight="0.6219187365005538" />
+      <edge source="Indian" target="South African" id="742" weight="0.392579277267232" />
+      <edge source="Indian" target="South Asian" id="743" weight="0.7514832042299744" />
+      <edge source="Indian" target="South Indian" id="744" weight="0.7381270427306368" />
+      <edge source="Indian" target="Southern U.S." id="745" weight="0.31184232872975526" />
+      <edge source="Indian" target="Sylheti" id="746" weight="0.47096174696262016" />
+      <edge source="Indian" target="Tanzanian" id="747" weight="0.35889440329369254" />
+      <edge source="Indian" target="Thai" id="748" weight="0.38426849098505633" />
+      <edge source="Indian" target="Turkish" id="749" weight="0.30274938009160807" />
+      <edge source="Indian" target="Ugandan" id="750" weight="0.3778954965097889" />
+      <edge source="Indian" target="United States" id="751" weight="0.3342051914140324" />
+      <edge source="Indian" target="Zambian" id="752" weight="0.3458832030972814" />
+      <edge source="Indonesian" target="Kenyan" id="753" weight="0.3128032487372245" />
+      <edge source="Indonesian" target="Malaysian" id="754" weight="0.42296096675164313" />
+      <edge source="Indonesian" target="Southeast Asian" id="755" weight="0.32203762664593094" />
+      <edge source="Indonesian" target="Sundanese" id="756" weight="0.3900816090763237" />
+      <edge source="Indonesian" target="Sylheti" id="757" weight="0.31522405888908955" />
+      <edge source="Indonesian" target="Thai" id="758" weight="0.5486194377786402" />
+      <edge source="Indonesian" target="Vietnamese" id="759" weight="0.3397683615682621" />
+      <edge source="Indonesian" target="Zambian" id="760" weight="0.3471946673053128" />
+      <edge source="Iranian" target="Middle Eastern (general)" id="761" weight="0.4311954548453259" />
+      <edge source="Iranian" target="Pakistani" id="762" weight="0.32039057678028887" />
+      <edge source="Irish" target="Midwestern U.S." id="763" weight="0.3420875878513273" />
+      <edge source="Irish" target="New Zealand" id="764" weight="0.5426700475875342" />
+      <edge source="Irish" target="North American" id="765" weight="0.30187964959235214" />
+      <edge source="Irish" target="Northern Irish" id="766" weight="0.5546754551064369" />
+      <edge source="Irish" target="Polish" id="767" weight="0.3643589358509295" />
+      <edge source="Irish" target="Russian" id="768" weight="0.3790536903261986" />
+      <edge source="Irish" target="Scottish" id="769" weight="0.5837082717548693" />
+      <edge source="Irish" target="South African" id="770" weight="0.3336141312607975" />
+      <edge source="Irish" target="Southern U.S." id="771" weight="0.39664622854213544" />
+      <edge source="Irish" target="Surinamese" id="772" weight="0.3055028816666488" />
+      <edge source="Irish" target="United States" id="773" weight="0.36022354692644415" />
+      <edge source="Irish" target="Welsh" id="774" weight="0.5680461245421347" />
+      <edge source="Israeli" target="Jewish (general)" id="775" weight="0.39894373872949734" />
+      <edge source="Israeli" target="Lebanese" id="776" weight="0.32014520443752725" />
+      <edge source="Israeli" target="Libyan" id="777" weight="0.3585329942018068" />
+      <edge source="Israeli" target="Mediterranean (general)" id="778" weight="0.31286719520272005" />
+      <edge source="Israeli" target="Middle Eastern (general)" id="779" weight="0.5318438126988722" />
+      <edge source="Israeli" target="Rwandan" id="780" weight="0.32227193036629903" />
+      <edge source="Italian" target="Italian-American" id="781" weight="0.5396604414327895" />
+      <edge source="Italian" target="Louisiana" id="782" weight="0.3813163444613212" />
+      <edge source="Italian" target="Mediterranean (general)" id="783" weight="0.36968701406186055" />
+      <edge source="Italian" target="Mexican" id="784" weight="0.3138813919294182" />
+      <edge source="Italian" target="Middle Eastern (general)" id="785" weight="0.32107622336194663" />
+      <edge source="Italian" target="Midwestern U.S." id="786" weight="0.3124940666902845" />
+      <edge source="Italian" target="Native American" id="787" weight="0.40831787393068575" />
+      <edge source="Italian" target="Polish" id="788" weight="0.30541356398143016" />
+      <edge source="Italian" target="Southern U.S." id="789" weight="0.4431026089680898" />
+      <edge source="Italian" target="Southwestern" id="790" weight="0.3657042605336334" />
+      <edge source="Italian" target="Spanish" id="791" weight="0.3920604938940179" />
+      <edge source="Italian" target="Swedish" id="792" weight="0.3197279529702101" />
+      <edge source="Italian" target="Tex-Mex" id="793" weight="0.30393549336089826" />
+      <edge source="Italian" target="Texas" id="794" weight="0.3461900406210911" />
+      <edge source="Italian" target="Turkish" id="795" weight="0.30470997120822607" />
+      <edge source="Italian" target="Ukrainian" id="796" weight="0.3112628676943377" />
+      <edge source="Italian" target="United States" id="797" weight="0.5874654849870258" />
+      <edge source="Italian" target="Venezuelan" id="798" weight="0.3135261950147143" />
+      <edge source="Italian-American" target="Louisiana" id="799" weight="0.30724465810809914" />
+      <edge source="Italian-American" target="Southwestern" id="800" weight="0.30378322935463886" />
+      <edge source="Italian-American" target="United States" id="801" weight="0.4104482576746712" />
+      <edge source="Jamaican" target="Mexican" id="802" weight="0.3114163009750976" />
+      <edge source="Jamaican" target="North American" id="803" weight="0.30444756911397963" />
+      <edge source="Jamaican" target="Rwandan" id="804" weight="0.3268143523706711" />
+      <edge source="Jamaican" target="Senegalese" id="805" weight="0.35430239180873113" />
+      <edge source="Jamaican" target="South African" id="806" weight="0.3218955108094843" />
+      <edge source="Jamaican" target="Southern U.S." id="807" weight="0.34056819065001165" />
+      <edge source="Jamaican" target="Tanzanian" id="808" weight="0.3512785628096736" />
+      <edge source="Jamaican" target="Trinidadian and Tobagonian" id="809" weight="0.3830801755077172" />
+      <edge source="Japanese" target="Korean" id="810" weight="0.4634996085778095" />
+      <edge source="Japanese" target="Thai" id="811" weight="0.3416279323388343" />
+      <edge source="Japanese" target="United States" id="812" weight="0.3287516563080834" />
+      <edge source="Jewish (general)" target="Jewish Yemenite" id="813" weight="0.3601724345735776" />
+      <edge source="Jewish (general)" target="Lithuanian" id="814" weight="0.3043402569252527" />
+      <edge source="Jewish (general)" target="Middle Eastern (general)" id="815" weight="0.36761791511350805" />
+      <edge source="Jewish (general)" target="Midwestern U.S." id="816" weight="0.3030657980586824" />
+      <edge source="Jewish (general)" target="North African" id="817" weight="0.32692568043251874" />
+      <edge source="Jewish (general)" target="Portuguese" id="818" weight="0.3073894471554219" />
+      <edge source="Jewish (general)" target="Slovenian" id="819" weight="0.3083448840276456" />
+      <edge source="Jewish (general)" target="Surinamese" id="820" weight="0.4401452973130685" />
+      <edge source="Jewish (general)" target="United States" id="821" weight="0.3159931764174338" />
+      <edge source="Jewish Yemenite" target="Middle Eastern (general)" id="822" weight="0.47303386604522984" />
+      <edge source="Jewish Yemenite" target="Sabbath" id="823" weight="0.4486007491363993" />
+      <edge source="Jewish Yemenite" target="Sudanese" id="824" weight="0.33401344471196764" />
+      <edge source="Jordanian" target="Palestinian" id="825" weight="0.6827116752906817" />
+      <edge source="Kenyan" target="Liberian" id="826" weight="0.4707368290789199" />
+      <edge source="Kenyan" target="Libyan" id="827" weight="0.4024052131077721" />
+      <edge source="Kenyan" target="Moroccan" id="828" weight="0.3372990311118631" />
+      <edge source="Kenyan" target="National Nigerian" id="829" weight="0.3061171125466343" />
+      <edge source="Kenyan" target="Nigerian" id="830" weight="0.30306427278979553" />
+      <edge source="Kenyan" target="Pakistani" id="831" weight="0.3754766445421207" />
+      <edge source="Kenyan" target="Peruvian" id="832" weight="0.3542165934653845" />
+      <edge source="Kenyan" target="Punjabi" id="833" weight="0.32686981132556253" />
+      <edge source="Kenyan" target="Rwandan" id="834" weight="0.4295225026756715" />
+      <edge source="Kenyan" target="Senegalese" id="835" weight="0.5328879717969142" />
+      <edge source="Kenyan" target="Somali" id="836" weight="0.34333481861851" />
+      <edge source="Kenyan" target="South African" id="837" weight="0.3175761065865108" />
+      <edge source="Kenyan" target="South Indian" id="838" weight="0.311431959907268" />
+      <edge source="Kenyan" target="Sylheti" id="839" weight="0.35606635669769915" />
+      <edge source="Kenyan" target="Tanzanian" id="840" weight="0.5274208643796803" />
+      <edge source="Kenyan" target="Tibetan" id="841" weight="0.3083588596740933" />
+      <edge source="Kenyan" target="Togolese" id="842" weight="0.37226539073763987" />
+      <edge source="Kenyan" target="Ugandan" id="843" weight="0.529956263742755" />
+      <edge source="Kenyan" target="Yoruba" id="844" weight="0.3184267239480247" />
+      <edge source="Kenyan" target="Zambian" id="845" weight="0.4431684789774596" />
+      <edge source="Korean" target="Thai" id="846" weight="0.30304833629829897" />
+      <edge source="Lebanese" target="Libyan" id="847" weight="0.3524362453292691" />
+      <edge source="Lebanese" target="Louisiana" id="848" weight="0.3497859255276138" />
+      <edge source="Lebanese" target="Middle Eastern (general)" id="849" weight="0.3029585401738806" />
+      <edge source="Lebanese" target="Moroccan" id="850" weight="0.30469454133476775" />
+      <edge source="Lebanese" target="Native American" id="851" weight="0.3191121728438629" />
+      <edge source="Lebanese" target="Palestinian" id="852" weight="0.357350554988501" />
+      <edge source="Lebanese" target="Peruvian" id="853" weight="0.3097182625179169" />
+      <edge source="Lebanese" target="Rwandan" id="854" weight="0.31705686965199886" />
+      <edge source="Lebanese" target="South Asian" id="855" weight="0.31621293366535724" />
+      <edge source="Liberian" target="Louisiana" id="856" weight="0.34985398785884175" />
+      <edge source="Liberian" target="Mexican" id="857" weight="0.309462892146099" />
+      <edge source="Liberian" target="National Nigerian" id="858" weight="0.46470495030635534" />
+      <edge source="Liberian" target="Nigerian" id="859" weight="0.4693448789241667" />
+      <edge source="Liberian" target="Rwandan" id="860" weight="0.5965848785857972" />
+      <edge source="Liberian" target="Senegalese" id="861" weight="0.5233476744428698" />
+      <edge source="Liberian" target="South African" id="862" weight="0.3010418733933553" />
+      <edge source="Liberian" target="Southern U.S." id="863" weight="0.35459459792617576" />
+      <edge source="Liberian" target="Southwestern" id="864" weight="0.31850858072623695" />
+      <edge source="Liberian" target="Tex-Mex" id="865" weight="0.32777557197016455" />
+      <edge source="Liberian" target="Texas" id="866" weight="0.3530283965032122" />
+      <edge source="Liberian" target="Togolese" id="867" weight="0.4289688779605511" />
+      <edge source="Liberian" target="Ugandan" id="868" weight="0.4497235247109154" />
+      <edge source="Liberian" target="United States" id="869" weight="0.3245541060202408" />
+      <edge source="Liberian" target="Yoruba" id="870" weight="0.4789144858539425" />
+      <edge source="Liberian" target="Zambian" id="871" weight="0.4778179356326597" />
+      <edge source="Libyan" target="Louisiana" id="872" weight="0.3095836194431674" />
+      <edge source="Libyan" target="Middle Eastern (general)" id="873" weight="0.46098068430968653" />
+      <edge source="Libyan" target="Moroccan" id="874" weight="0.49725360063179913" />
+      <edge source="Libyan" target="North African" id="875" weight="0.331980414877701" />
+      <edge source="Libyan" target="Pakistani" id="876" weight="0.4010519497091348" />
+      <edge source="Libyan" target="Peruvian" id="877" weight="0.317789381207472" />
+      <edge source="Libyan" target="Portuguese" id="878" weight="0.33662921115327155" />
+      <edge source="Libyan" target="Puerto Rican" id="879" weight="0.3041273866216933" />
+      <edge source="Libyan" target="Punjabi" id="880" weight="0.346213997749706" />
+      <edge source="Libyan" target="Rwandan" id="881" weight="0.4862423396413753" />
+      <edge source="Libyan" target="Senegalese" id="882" weight="0.43446860257932923" />
+      <edge source="Libyan" target="Somali" id="883" weight="0.3710078549724682" />
+      <edge source="Libyan" target="South Asian" id="884" weight="0.35251209729644645" />
+      <edge source="Libyan" target="Spanish" id="885" weight="0.30980395885424516" />
+      <edge source="Libyan" target="Sylheti" id="886" weight="0.31241806656300647" />
+      <edge source="Libyan" target="Tanzanian" id="887" weight="0.35921989409581506" />
+      <edge source="Libyan" target="Turkish" id="888" weight="0.3389908111300376" />
+      <edge source="Libyan" target="Ugandan" id="889" weight="0.4647887530708112" />
+      <edge source="Libyan" target="United States" id="890" weight="0.3127320566430559" />
+      <edge source="Libyan" target="Venezuelan" id="891" weight="0.33552037268867463" />
+      <edge source="Libyan" target="Zambian" id="892" weight="0.4621326117313477" />
+      <edge source="Louisiana" target="Mediterranean (general)" id="893" weight="0.3017684933401406" />
+      <edge source="Louisiana" target="Mexican" id="894" weight="0.3675653975568167" />
+      <edge source="Louisiana" target="Midwestern U.S." id="895" weight="0.31773736410560854" />
+      <edge source="Louisiana" target="Native American" id="896" weight="0.39069194875698937" />
+      <edge source="Louisiana" target="Peruvian" id="897" weight="0.33442392742681387" />
+      <edge source="Louisiana" target="Puerto Rican" id="898" weight="0.30627367501817737" />
+      <edge source="Louisiana" target="Russian" id="899" weight="0.3150345191482335" />
+      <edge source="Louisiana" target="Rwandan" id="900" weight="0.3627873995329695" />
+      <edge source="Louisiana" target="Senegalese" id="901" weight="0.3630122841714134" />
+      <edge source="Louisiana" target="South American" id="902" weight="0.32001416036342284" />
+      <edge source="Louisiana" target="Southern U.S." id="903" weight="0.5571182496392719" />
+      <edge source="Louisiana" target="Southwestern" id="904" weight="0.38798130202165115" />
+      <edge source="Louisiana" target="Spanish" id="905" weight="0.39421854401570344" />
+      <edge source="Louisiana" target="Tex-Mex" id="906" weight="0.43777276486621214" />
+      <edge source="Louisiana" target="Texas" id="907" weight="0.40298459514509516" />
+      <edge source="Louisiana" target="United States" id="908" weight="0.4682034927914044" />
+      <edge source="Malawian" target="Rwandan" id="909" weight="0.411066392221467" />
+      <edge source="Malawian" target="Serbian" id="910" weight="0.31321853542548206" />
+      <edge source="Malawian" target="South African" id="911" weight="0.3110881507478586" />
+      <edge source="Malawian" target="Ugandan" id="912" weight="0.4496148180780985" />
+      <edge source="Malawian" target="Zambian" id="913" weight="0.3115480949010304" />
+      <edge source="Malaysian" target="Nepali" id="914" weight="0.33639840432116674" />
+      <edge source="Malaysian" target="Pakistani" id="915" weight="0.31061980071290063" />
+      <edge source="Malaysian" target="South Indian" id="916" weight="0.301653264917643" />
+      <edge source="Malaysian" target="Sylheti" id="917" weight="0.4320767424621519" />
+      <edge source="Malaysian" target="Thai" id="918" weight="0.4261460899020883" />
+      <edge source="Mediterranean (general)" target="Middle Eastern (general)" id="919" weight="0.42868043346210194" />
+      <edge source="Mediterranean (general)" target="Romanian" id="920" weight="0.3211459341696379" />
+      <edge source="Mediterranean (general)" target="Spanish" id="921" weight="0.5755128119921352" />
+      <edge source="Mexican" target="Midwestern U.S." id="922" weight="0.3859073245968738" />
+      <edge source="Mexican" target="Native American" id="923" weight="0.31538641777299753" />
+      <edge source="Mexican" target="Peruvian" id="924" weight="0.3291226014065808" />
+      <edge source="Mexican" target="Puerto Rican" id="925" weight="0.30273130085536326" />
+      <edge source="Mexican" target="Rwandan" id="926" weight="0.3529859414752264" />
+      <edge source="Mexican" target="South Asian" id="927" weight="0.33315851067521685" />
+      <edge source="Mexican" target="Southern U.S." id="928" weight="0.446040445914164" />
+      <edge source="Mexican" target="Southwestern" id="929" weight="0.8004845530012307" />
+      <edge source="Mexican" target="Spanish" id="930" weight="0.32815108083877836" />
+      <edge source="Mexican" target="Tex-Mex" id="931" weight="0.875001462868381" />
+      <edge source="Mexican" target="Texas" id="932" weight="0.51256589567192" />
+      <edge source="Mexican" target="United States" id="933" weight="0.5449551252478669" />
+      <edge source="Middle Eastern (general)" target="North African" id="934" weight="0.33540485370060635" />
+      <edge source="Middle Eastern (general)" target="Pakistani" id="935" weight="0.453722903341936" />
+      <edge source="Middle Eastern (general)" target="Palestinian" id="936" weight="0.40914702006226594" />
+      <edge source="Middle Eastern (general)" target="Pashtun" id="937" weight="0.3454398669574706" />
+      <edge source="Middle Eastern (general)" target="Punjabi" id="938" weight="0.43107753306027924" />
+      <edge source="Middle Eastern (general)" target="Rwandan" id="939" weight="0.3196056985155429" />
+      <edge source="Middle Eastern (general)" target="Sabbath" id="940" weight="0.41130769219197666" />
+      <edge source="Middle Eastern (general)" target="South Asian" id="941" weight="0.41458630165921173" />
+      <edge source="Middle Eastern (general)" target="South Indian" id="942" weight="0.30435194236205737" />
+      <edge source="Middle Eastern (general)" target="Sylheti" id="943" weight="0.3232962826031532" />
+      <edge source="Middle Eastern (general)" target="Tex-Mex" id="944" weight="0.30283458384105183" />
+      <edge source="Middle Eastern (general)" target="Turkish" id="945" weight="0.4646468151118693" />
+      <edge source="Middle Eastern (general)" target="United States" id="946" weight="0.30023751565425605" />
+      <edge source="Midwestern U.S." target="Polish" id="947" weight="0.30575852264965336" />
+      <edge source="Midwestern U.S." target="Southern U.S." id="948" weight="0.3796075073288142" />
+      <edge source="Midwestern U.S." target="Southwestern" id="949" weight="0.41602788906044325" />
+      <edge source="Midwestern U.S." target="Surinamese" id="950" weight="0.3644128702537422" />
+      <edge source="Midwestern U.S." target="Tex-Mex" id="951" weight="0.4381648112541588" />
+      <edge source="Midwestern U.S." target="Texas" id="952" weight="0.4111931644749111" />
+      <edge source="Midwestern U.S." target="Ukrainian" id="953" weight="0.3665885750242436" />
+      <edge source="Midwestern U.S." target="United States" id="954" weight="0.473000329588628" />
+      <edge source="Mongolian" target="Norwegian" id="955" weight="0.3086995179145874" />
+      <edge source="Mongolian" target="Serbian" id="956" weight="0.3966688292659529" />
+      <edge source="Moroccan" target="Rwandan" id="957" weight="0.4382836844060264" />
+      <edge source="Moroccan" target="Senegalese" id="958" weight="0.39538686782806187" />
+      <edge source="Moroccan" target="Ugandan" id="959" weight="0.3664287360202358" />
+      <edge source="Moroccan" target="Zambian" id="960" weight="0.4059869014507974" />
+      <edge source="National Nigerian" target="Nigerian" id="961" weight="0.5301993538330535" />
+      <edge source="National Nigerian" target="Rwandan" id="962" weight="0.33465254943563516" />
+      <edge source="National Nigerian" target="Tiv" id="963" weight="0.3166977395885219" />
+      <edge source="National Nigerian" target="Togolese" id="964" weight="0.3110593805573201" />
+      <edge source="National Nigerian" target="Ugandan" id="965" weight="0.38077115730277433" />
+      <edge source="National Nigerian" target="Yoruba" id="966" weight="0.5059490943693945" />
+      <edge source="Native American" target="Russian" id="967" weight="0.37350648640102024" />
+      <edge source="Native American" target="Rwandan" id="968" weight="0.361992288826" />
+      <edge source="Native American" target="Southern U.S." id="969" weight="0.4928415003938024" />
+      <edge source="Native American" target="Southwestern" id="970" weight="0.3485538728849712" />
+      <edge source="Native American" target="Swedish" id="971" weight="0.31966758903303827" />
+      <edge source="Native American" target="Tex-Mex" id="972" weight="0.3353023156328078" />
+      <edge source="Native American" target="Texas" id="973" weight="0.4256675396825147" />
+      <edge source="Native American" target="Ugandan" id="974" weight="0.32944810223586485" />
+      <edge source="Native American" target="Ukrainian" id="975" weight="0.3394922694389164" />
+      <edge source="Native American" target="United States" id="976" weight="0.5211767851269671" />
+      <edge source="Native American" target="Zambian" id="977" weight="0.3017917690462031" />
+      <edge source="Nepali" target="Pakistani" id="978" weight="0.3600254307000723" />
+      <edge source="Nepali" target="Punjabi" id="979" weight="0.3842318765394343" />
+      <edge source="Nepali" target="South Asian" id="980" weight="0.34651812792395" />
+      <edge source="Nepali" target="Sylheti" id="981" weight="0.32803531547983444" />
+      <edge source="Nepali" target="Tibetan" id="982" weight="0.652150200909106" />
+      <edge source="New Zealand" target="Northern Irish" id="983" weight="0.5230015266131127" />
+      <edge source="New Zealand" target="Scottish" id="984" weight="0.5217323479857668" />
+      <edge source="New Zealand" target="South African" id="985" weight="0.3249306361596976" />
+      <edge source="New Zealand" target="Southern U.S." id="986" weight="0.31531742700486753" />
+      <edge source="New Zealand" target="United States" id="987" weight="0.3080187136122321" />
+      <edge source="New Zealand" target="Welsh" id="988" weight="0.5508951720827227" />
+      <edge source="Nigerian" target="Tiv" id="989" weight="0.3994895117443447" />
+      <edge source="Nigerian" target="Ugandan" id="990" weight="0.3092060478540259" />
+      <edge source="Nigerian" target="Yoruba" id="991" weight="0.6943439964716654" />
+      <edge source="North African" target="Panamanian" id="992" weight="0.3379428013360981" />
+      <edge source="North African" target="Pashtun" id="993" weight="0.34127689809767503" />
+      <edge source="North African" target="Puerto Rican" id="994" weight="0.3109315817390034" />
+      <edge source="North African" target="Somali" id="995" weight="0.3808458398948051" />
+      <edge source="North African" target="South American" id="996" weight="0.39196689324760003" />
+      <edge source="North African" target="Tex-Mex" id="997" weight="0.3026233585720814" />
+      <edge source="North African" target="Turkish" id="998" weight="0.34344622581308126" />
+      <edge source="North African" target="Ugandan" id="999" weight="0.3292900661065087" />
+      <edge source="North African" target="Venezuelan" id="1000" weight="0.3141022626764573" />
+      <edge source="North American" target="Southern U.S." id="1001" weight="0.40035046167890476" />
+      <edge source="North American" target="United States" id="1002" weight="0.35282616504944575" />
+      <edge source="Northern Irish" target="Scottish" id="1003" weight="0.567500677446573" />
+      <edge source="Northern Irish" target="Welsh" id="1004" weight="0.6319472515924891" />
+      <edge source="Norwegian" target="Serbian" id="1005" weight="0.36486005981782754" />
+      <edge source="Pakistani" target="Pashtun" id="1006" weight="0.5744296440691765" />
+      <edge source="Pakistani" target="Punjabi" id="1007" weight="0.8700529886959804" />
+      <edge source="Pakistani" target="Rwandan" id="1008" weight="0.34624143888619585" />
+      <edge source="Pakistani" target="Senegalese" id="1009" weight="0.34305706244862055" />
+      <edge source="Pakistani" target="Sindhi" id="1010" weight="0.5262018722355318" />
+      <edge source="Pakistani" target="South African" id="1011" weight="0.3601790742575587" />
+      <edge source="Pakistani" target="South Asian" id="1012" weight="0.560371951196349" />
+      <edge source="Pakistani" target="South Indian" id="1013" weight="0.42572037909708693" />
+      <edge source="Pakistani" target="Sylheti" id="1014" weight="0.4445099937858061" />
+      <edge source="Pakistani" target="Tanzanian" id="1015" weight="0.3526042695501132" />
+      <edge source="Pakistani" target="Tibetan" id="1016" weight="0.3052161198583625" />
+      <edge source="Pakistani" target="Turkish" id="1017" weight="0.3201600039302993" />
+      <edge source="Pakistani" target="Ugandan" id="1018" weight="0.43994119546310256" />
+      <edge source="Pakistani" target="Zambian" id="1019" weight="0.3098294120866804" />
+      <edge source="Panamanian" target="Tex-Mex" id="1020" weight="0.3104021954950013" />
+      <edge source="Pashtun" target="Punjabi" id="1021" weight="0.6911512167042029" />
+      <edge source="Pashtun" target="Serbian" id="1022" weight="0.36677891635271426" />
+      <edge source="Pashtun" target="Sindhi" id="1023" weight="0.338965538224546" />
+      <edge source="Pashtun" target="South Asian" id="1024" weight="0.36332316902174255" />
+      <edge source="Pashtun" target="Sylheti" id="1025" weight="0.3255851732691395" />
+      <edge source="Pashtun" target="Tibetan" id="1026" weight="0.32826401887637074" />
+      <edge source="Peruvian" target="Puerto Rican" id="1027" weight="0.36365336523063646" />
+      <edge source="Peruvian" target="Senegalese" id="1028" weight="0.42601250144501657" />
+      <edge source="Peruvian" target="South American" id="1029" weight="0.3483955814891456" />
+      <edge source="Peruvian" target="Southern U.S." id="1030" weight="0.3605953060730187" />
+      <edge source="Peruvian" target="Southwestern" id="1031" weight="0.3421631387002017" />
+      <edge source="Peruvian" target="Spanish" id="1032" weight="0.3067940300225945" />
+      <edge source="Peruvian" target="Tex-Mex" id="1033" weight="0.3863466443227361" />
+      <edge source="Peruvian" target="United States" id="1034" weight="0.3552117957751949" />
+      <edge source="Peruvian" target="Venezuelan" id="1035" weight="0.38290938984919887" />
+      <edge source="Polish" target="Russian" id="1036" weight="0.3652612334296237" />
+      <edge source="Polish" target="South African" id="1037" weight="0.30251032447085346" />
+      <edge source="Polish" target="Swedish" id="1038" weight="0.3895871737395567" />
+      <edge source="Polish" target="Ukrainian" id="1039" weight="0.3249240743122533" />
+      <edge source="Portuguese" target="Spanish" id="1040" weight="0.3532956231024788" />
+      <edge source="Portuguese" target="United States" id="1041" weight="0.30015825734459667" />
+      <edge source="Puerto Rican" target="Rwandan" id="1042" weight="0.3372030030849461" />
+      <edge source="Puerto Rican" target="South American" id="1043" weight="0.3611248884071393" />
+      <edge source="Puerto Rican" target="Spanish" id="1044" weight="0.3054261866894367" />
+      <edge source="Puerto Rican" target="Venezuelan" id="1045" weight="0.3855235287629625" />
+      <edge source="Punjabi" target="Rwandan" id="1046" weight="0.3411844227467424" />
+      <edge source="Punjabi" target="Serbian" id="1047" weight="0.3203479384844301" />
+      <edge source="Punjabi" target="Sindhi" id="1048" weight="0.49741150248994237" />
+      <edge source="Punjabi" target="South Asian" id="1049" weight="0.4907102822275001" />
+      <edge source="Punjabi" target="South Indian" id="1050" weight="0.3523600648141413" />
+      <edge source="Punjabi" target="Sylheti" id="1051" weight="0.4024744328647635" />
+      <edge source="Punjabi" target="Tanzanian" id="1052" weight="0.3271408431883606" />
+      <edge source="Punjabi" target="Tibetan" id="1053" weight="0.34957694806121187" />
+      <edge source="Punjabi" target="Ugandan" id="1054" weight="0.410160158781446" />
+      <edge source="Recipes for kugel" target="Sabbath" id="1055" weight="0.3493032566709848" />
+      <edge source="Recipes for kugel" target="Slovenian" id="1056" weight="0.3440574261606312" />
+      <edge source="Russian" target="Rwandan" id="1057" weight="0.3134738649535162" />
+      <edge source="Russian" target="Southern U.S." id="1058" weight="0.3491871826722236" />
+      <edge source="Russian" target="Swedish" id="1059" weight="0.36918045696286744" />
+      <edge source="Russian" target="Texas" id="1060" weight="0.3307824384108033" />
+      <edge source="Russian" target="Ukrainian" id="1061" weight="0.6724218915222588" />
+      <edge source="Russian" target="United States" id="1062" weight="0.36649733633381776" />
+      <edge source="Rwandan" target="Senegalese" id="1063" weight="0.5033911307554746" />
+      <edge source="Rwandan" target="Somali" id="1064" weight="0.362278600586075" />
+      <edge source="Rwandan" target="South African" id="1065" weight="0.3459928729777383" />
+      <edge source="Rwandan" target="Southern U.S." id="1066" weight="0.37660149775012497" />
+      <edge source="Rwandan" target="Southwestern" id="1067" weight="0.3595337945598933" />
+      <edge source="Rwandan" target="Tanzanian" id="1068" weight="0.40109987476364295" />
+      <edge source="Rwandan" target="Tex-Mex" id="1069" weight="0.3688509071527409" />
+      <edge source="Rwandan" target="Texas" id="1070" weight="0.34013552250816664" />
+      <edge source="Rwandan" target="Togolese" id="1071" weight="0.31148135931654686" />
+      <edge source="Rwandan" target="Turkish" id="1072" weight="0.3187777102694952" />
+      <edge source="Rwandan" target="Ugandan" id="1073" weight="0.6097895523102553" />
+      <edge source="Rwandan" target="Ukrainian" id="1074" weight="0.3363199580784864" />
+      <edge source="Rwandan" target="United States" id="1075" weight="0.35377404560411985" />
+      <edge source="Rwandan" target="Zambian" id="1076" weight="0.6169827186442203" />
+      <edge source="Rwandan" target="Zimbabwean" id="1077" weight="0.3697004478924712" />
+      <edge source="Scottish" target="Swedish" id="1078" weight="0.3164260770971451" />
+      <edge source="Scottish" target="Welsh" id="1079" weight="0.49228483653073096" />
+      <edge source="Senegalese" target="South African" id="1080" weight="0.30849241988093484" />
+      <edge source="Senegalese" target="Southern U.S." id="1081" weight="0.3109093458327423" />
+      <edge source="Senegalese" target="Southwestern" id="1082" weight="0.33002476723151447" />
+      <edge source="Senegalese" target="Tanzanian" id="1083" weight="0.39602421907455065" />
+      <edge source="Senegalese" target="Tex-Mex" id="1084" weight="0.3125896692136252" />
+      <edge source="Senegalese" target="Texas" id="1085" weight="0.3567870747675696" />
+      <edge source="Senegalese" target="Togolese" id="1086" weight="0.3277964323665558" />
+      <edge source="Senegalese" target="Ugandan" id="1087" weight="0.3783430238076651" />
+      <edge source="Senegalese" target="Zambian" id="1088" weight="0.49146292164109673" />
+      <edge source="Sindhi" target="South Asian" id="1089" weight="0.5243021049043679" />
+      <edge source="Sindhi" target="South Indian" id="1090" weight="0.6053879316719408" />
+      <edge source="Sindhi" target="Sylheti" id="1091" weight="0.3021275070382013" />
+      <edge source="Sindhi" target="Ugandan" id="1092" weight="0.310198864896343" />
+      <edge source="Slovenian" target="Trinidadian and Tobagonian" id="1093" weight="0.3061039338807405" />
+      <edge source="Somali" target="Tanzanian" id="1094" weight="0.3280424087697616" />
+      <edge source="Somali" target="Ugandan" id="1095" weight="0.4182459302874731" />
+      <edge source="Somali" target="Zambian" id="1096" weight="0.438992081621961" />
+      <edge source="South African" target="South Asian" id="1097" weight="0.31723035779039205" />
+      <edge source="South African" target="South Indian" id="1098" weight="0.30341803715689747" />
+      <edge source="South African" target="Southern U.S." id="1099" weight="0.3648501822718249" />
+      <edge source="South African" target="Tanzanian" id="1100" weight="0.3318700585654597" />
+      <edge source="South African" target="Ugandan" id="1101" weight="0.4338652693835832" />
+      <edge source="South African" target="United States" id="1102" weight="0.3380126639982443" />
+      <edge source="South African" target="Welsh" id="1103" weight="0.30402753252792014" />
+      <edge source="South African" target="Zambian" id="1104" weight="0.34522820303610774" />
+      <edge source="South American" target="Southern U.S." id="1105" weight="0.3286263629401667" />
+      <edge source="South American" target="Southwestern" id="1106" weight="0.30580996894830664" />
+      <edge source="South American" target="Tex-Mex" id="1107" weight="0.320156621676621" />
+      <edge source="South American" target="Venezuelan" id="1108" weight="0.5913398318047308" />
+      <edge source="South Asian" target="South Indian" id="1109" weight="0.6089202107454783" />
+      <edge source="South Asian" target="Sylheti" id="1110" weight="0.575362069278923" />
+      <edge source="South Asian" target="Tanzanian" id="1111" weight="0.38639308598560307" />
+      <edge source="South Asian" target="Tex-Mex" id="1112" weight="0.31308820094392253" />
+      <edge source="South Asian" target="Ugandan" id="1113" weight="0.3331703021964568" />
+      <edge source="South Indian" target="Sylheti" id="1114" weight="0.3882101024539184" />
+      <edge source="Southeast Asian" target="Thai" id="1115" weight="0.5758573224890241" />
+      <edge source="Southeast Asian" target="Vietnamese" id="1116" weight="0.48753218810237003" />
+      <edge source="Southern U.S." target="Southwestern" id="1117" weight="0.4777851762373042" />
+      <edge source="Southern U.S." target="Spanish" id="1118" weight="0.3748478981607249" />
+      <edge source="Southern U.S." target="Surinamese" id="1119" weight="0.3506136721016264" />
+      <edge source="Southern U.S." target="Swedish" id="1120" weight="0.3357017680255036" />
+      <edge source="Southern U.S." target="Tex-Mex" id="1121" weight="0.4257901857748971" />
+      <edge source="Southern U.S." target="Texas" id="1122" weight="0.5177089572990883" />
+      <edge source="Southern U.S." target="Trinidadian and Tobagonian" id="1123" weight="0.30183125205976274" />
+      <edge source="Southern U.S." target="Ugandan" id="1124" weight="0.326373505776754" />
+      <edge source="Southern U.S." target="Ukrainian" id="1125" weight="0.3240856888737637" />
+      <edge source="Southern U.S." target="United States" id="1126" weight="0.6574278716464981" />
+      <edge source="Southern U.S." target="Venezuelan" id="1127" weight="0.32350279872280896" />
+      <edge source="Southern U.S." target="Welsh" id="1128" weight="0.32088419193486145" />
+      <edge source="Southern U.S." target="Zambian" id="1129" weight="0.36468112401769864" />
+      <edge source="Southwestern" target="Spanish" id="1130" weight="0.31161842107281207" />
+      <edge source="Southwestern" target="Tex-Mex" id="1131" weight="0.8489881325243605" />
+      <edge source="Southwestern" target="Texas" id="1132" weight="0.6928783642998045" />
+      <edge source="Southwestern" target="Ukrainian" id="1133" weight="0.32509827221767007" />
+      <edge source="Southwestern" target="United States" id="1134" weight="0.5882943770201232" />
+      <edge source="Southwestern" target="Zambian" id="1135" weight="0.30695003103012575" />
+      <edge source="Spanish" target="Swedish" id="1136" weight="0.31526374230220855" />
+      <edge source="Spanish" target="Tex-Mex" id="1137" weight="0.32337155520835464" />
+      <edge source="Spanish" target="United States" id="1138" weight="0.3624539263046879" />
+      <edge source="Surinamese" target="United States" id="1139" weight="0.32565546395032025" />
+      <edge source="Swedish" target="United States" id="1140" weight="0.36117472976586157" />
+      <edge source="Sylheti" target="Tanzanian" id="1141" weight="0.34799759361322297" />
+      <edge source="Sylheti" target="Tibetan" id="1142" weight="0.30401445401564803" />
+      <edge source="Sylheti" target="Ugandan" id="1143" weight="0.344491442580927" />
+      <edge source="Sylheti" target="Zambian" id="1144" weight="0.30583565203108437" />
+      <edge source="Tanzanian" target="Togolese" id="1145" weight="0.31979841014367566" />
+      <edge source="Tanzanian" target="Ugandan" id="1146" weight="0.5110567278357938" />
+      <edge source="Tanzanian" target="Zambian" id="1147" weight="0.3279773976148306" />
+      <edge source="Tanzanian" target="Zimbabwean" id="1148" weight="0.3276473290727801" />
+      <edge source="Tex-Mex" target="Texas" id="1149" weight="0.5520894741843377" />
+      <edge source="Tex-Mex" target="United States" id="1150" weight="0.524747514869225" />
+      <edge source="Tex-Mex" target="Venezuelan" id="1151" weight="0.3068878920962008" />
+      <edge source="Texas" target="Ukrainian" id="1152" weight="0.3280857262466903" />
+      <edge source="Texas" target="United States" id="1153" weight="0.5971829719521584" />
+      <edge source="Texas" target="Zambian" id="1154" weight="0.32337016233320853" />
+      <edge source="Thai" target="Tibetan" id="1155" weight="0.3077738911696919" />
+      <edge source="Thai" target="Vietnamese" id="1156" weight="0.5204479361000782" />
+      <edge source="Tibetan" target="Ugandan" id="1157" weight="0.32144170866286526" />
+      <edge source="Tiv" target="Yoruba" id="1158" weight="0.5903662479191031" />
+      <edge source="Togolese" target="Ugandan" id="1159" weight="0.36788564257841655" />
+      <edge source="Togolese" target="Yoruba" id="1160" weight="0.33018327376898454" />
+      <edge source="Togolese" target="Zimbabwean" id="1161" weight="0.32636174152559166" />
+      <edge source="Ugandan" target="United States" id="1162" weight="0.3269497317152545" />
+      <edge source="Ugandan" target="Venezuelan" id="1163" weight="0.3412066414443187" />
+      <edge source="Ugandan" target="Zambian" id="1164" weight="0.5064239130003577" />
+      <edge source="Ugandan" target="Zimbabwean" id="1165" weight="0.44734099279360484" />
+      <edge source="Ukrainian" target="United States" id="1166" weight="0.32665592110251157" />
+      <edge source="United States" target="Venezuelan" id="1167" weight="0.32111702289374855" />
+      <edge source="United States" target="Zambian" id="1168" weight="0.3150639034438844" />
+    </edges>
+  </graph>
+</gexf>

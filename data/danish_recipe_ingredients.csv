@@ -8,6 +8,14 @@ Beer and Rye Bread Porridge (Øllebrød),potato
 Beer and Rye Bread Porridge (Øllebrød),salmon
 Beer and Rye Bread Porridge (Øllebrød),sugar
 Beer and Rye Bread Porridge (Øllebrød),whipped cream
+Carrot Jam,carrot
+Carrot Jam,lemon
+Carrot Jam,sugar
+Carrot Jam,water
+Danish Braised Cabbage (Rødkål),butter
+Danish Braised Cabbage (Rødkål),cabbage
+Danish Braised Cabbage (Rødkål),sugar
+Danish Braised Cabbage (Rødkål),vinegar
 Frikadeller (Danish Meatballs),cabbage
 Frikadeller (Danish Meatballs),egg
 Frikadeller (Danish Meatballs),garlic
@@ -20,25 +28,13 @@ Frikadeller (Danish Meatballs),potato
 Frikadeller (Danish Meatballs),salt
 Frikadeller (Danish Meatballs),veal
 Frikadeller (Danish Meatballs),wheat germ
-Carrot Jam,carrot
-Carrot Jam,lemon
-Carrot Jam,sugar
-Carrot Jam,water
-Danish Braised Cabbage (Rødkål),butter
-Danish Braised Cabbage (Rødkål),cabbage
-Danish Braised Cabbage (Rødkål),sugar
-Danish Braised Cabbage (Rødkål),vinegar
-Æbleskiver (Danish Spherical Pancakes),apple
-Æbleskiver (Danish Spherical Pancakes),applesauce
-Æbleskiver (Danish Spherical Pancakes),baking powder
-Æbleskiver (Danish Spherical Pancakes),baking soda
-Æbleskiver (Danish Spherical Pancakes),butter
-Æbleskiver (Danish Spherical Pancakes),buttermilk
-Æbleskiver (Danish Spherical Pancakes),flour
-Æbleskiver (Danish Spherical Pancakes),raspberry
-Æbleskiver (Danish Spherical Pancakes),salt
-Æbleskiver (Danish Spherical Pancakes),strawberry
-Æbleskiver (Danish Spherical Pancakes),vegetable oil
+Risengrød,butter
+Risengrød,cinnamon
+Risengrød,milk
+Risengrød,rice
+Risengrød,salt
+Risengrød,sugar
+Risengrød,water
 Rye Bread,rye
 Rye Bread,salt
 Rye Bread,sourdough starter
@@ -50,10 +46,14 @@ Rye Bread Layer Cake,potato flour
 Rye Bread Layer Cake,rye
 Rye Bread Layer Cake,sugar
 Rye Bread Layer Cake,sunflower seeds
-Risengrød,butter
-Risengrød,cinnamon
-Risengrød,milk
-Risengrød,rice
-Risengrød,salt
-Risengrød,sugar
-Risengrød,water
+Æbleskiver (Danish Spherical Pancakes),apple
+Æbleskiver (Danish Spherical Pancakes),applesauce
+Æbleskiver (Danish Spherical Pancakes),baking powder
+Æbleskiver (Danish Spherical Pancakes),baking soda
+Æbleskiver (Danish Spherical Pancakes),butter
+Æbleskiver (Danish Spherical Pancakes),buttermilk
+Æbleskiver (Danish Spherical Pancakes),flour
+Æbleskiver (Danish Spherical Pancakes),raspberry
+Æbleskiver (Danish Spherical Pancakes),salt
+Æbleskiver (Danish Spherical Pancakes),strawberry
+Æbleskiver (Danish Spherical Pancakes),vegetable oil
